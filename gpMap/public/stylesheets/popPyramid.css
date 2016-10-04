@@ -1,0 +1,112 @@
+
+/*.modal-dialog{*/
+    /*min-width: 600px;*/
+    /*width: 80vh;*/
+    /*height: 80vh;*/
+/*}*/
+
+
+.modal-content{
+    /*min-width: 600px;*/
+    width: 85vh;
+    /*height: 95vh;*/
+}
+
+.modal-header{
+    display: block;
+    width: 80vh;
+    padding: 5px;
+    margin: 10px 0px 10px 10px;
+    /*height: 10vh;*/
+}
+
+#featureTitle{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    /*width: 280px;*/
+    /*margin-right: 0;*/
+}
+
+
+#modalYear{
+    padding: 0;
+    display: inline-block;
+    width: 80px;
+}
+
+#modalHeaderButtons{
+    display: inline-block;
+    /*padding: 5px;*/
+    margin: 10px;
+}
+
+#totalsText{
+    color: blue;
+    /*font-family: cursive;*/
+}
+
+.modal-body{
+    width: 80vh;
+    height: 70vh;
+    padding: 0;
+}
+
+.modal-footer{
+    text-align: left;
+    width: 80vh;
+    padding: 5px;
+    margin: 10px 0px 0px 10px;
+    /*height: 5vh;*/
+}
+
+
+#featureIdTitle{
+    padding: 0;
+    margin: 0;
+    /*display: inline-block;*/
+    /*width: 250px;*/
+    /*margin-right: 0;*/
+}
+
+svg {
+    /*border: 1px solid #ccc;*/
+}
+
+.axis line,
+.axis path {
+    shape-rendering: crispEdges;
+    fill: transparent;
+    stroke: transparent;
+}
+.axis text {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bar {
+     fill-opacity: 0.5;
+}
+/*.bar.left {*/
+    /*fill: green;*/
+    /*fill: steelblue;*/
+    /*fill-opacity: 0.8;*/
+/*}*/
+/*.bar.right {*/
+    /*fill: pink;*/
+    /*fill-opacity: 0.8;*/
+/*}*/
+
+/*.bar.left2 {*/
+    /*fill: blue;*/
+    /*fill: lightsteelblue;*/
+    /*fill-opacity: 0.5;*/
+/*}*/
+/*.bar.right2 {*/
+    /*fill: lightpink;*/
+    /*fill-opacity: 0.5;*/
+/*}*/
+
+/*.keyBar{*/
+    /*fill-opacity: 0.5;*/
+/*}*/

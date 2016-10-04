@@ -1,0 +1,67 @@
+extends layout
+
+block content
+
+	.welcomeInfo.modal.fade
+		.modal-dialog#welcomeDialog
+			.modal-content
+				.modal-header
+					button.close(type="button",data-dismiss="modal",aria-hidden="true") &times;
+					.modal-title
+						h4#welcomeTitle Sorry #{""}
+							span
+								img#sadFaceImage(src="/images/sadface.png")
+				.modal-body#welcomeInfoCanvas
+					p This is an ALPHA release
+					P and has not been optimised 
+					p for small screens.
+					br
+					button.close.pull-left(type="button",data-dismiss="modal")#takemeBtn Take me to the map anyway!
+					
+
+
+	.featureInfo.modal.fade
+		.modal-dialog
+			.modal-content
+				.modal-header
+					button.close(type="button",data-dismiss="modal",aria-hidden="true") &times;
+					.modal-title
+							h4#featureTitle
+						.btn-group#modalHeaderButtons
+							button.backButton.btn.btn-default(type='submit').glyphicon.glyphicon-minus
+							button.forwardButton.btn.btn-default(type='submit').glyphicon.glyphicon-plus
+					p#totalsText
+
+				.modal-body#featureInfoCanvas
+					//h4#featureIdTitle
+				.modal-footer
+					h5#featureIdTitle
+
+	.container#mapContainer
+		.row#buttonRow
+			.col-sm-1
+			.col-sm-3
+
+				.input-group#findAddress
+					input#address.form-control(type='text', name='username', placeholder='Search')
+					span.input-group-btn
+						button#findButton.btn.btn-default.btn(type='submit').glyphicon.glyphicon-search
+
+			.col-sm-3
+				.input-group.findYear
+					span.input-group-btn
+						button.backButton.btn.btn-default(type='submit').glyphicon.glyphicon-minus
+					select#yearList.form-control
+					span.input-group-btn
+						button.forwardButton.btn.btn-default(type='submit').glyphicon.glyphicon-plus
+			.col-sm-3
+				.input-group#showGP
+					span.input-group-btn
+						button#gpButton.btn.btn-default.btn(type='submit') Show GP Surgeries
+					span.input-group-btn
+						button#hideButton.btn.btn-default.btn(type='submit').glyphicon.glyphicon-remove
+
+			.col-sm-2
+
+		.mapCanvas
+		.loading

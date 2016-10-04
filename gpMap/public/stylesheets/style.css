@@ -1,0 +1,172 @@
+body {
+    background-color: white;
+}
+
+.navbar-brand {
+    left: 10px;
+    padding: 8px 0px 0px 0px;
+}
+
+#brandImage {
+    height: 36px;
+}
+
+#brandText{
+     position: absolute;
+     width: 400px;
+     margin-left: 12.5px;
+     top: 0px;
+     margin-top: 16.5px;
+ }
+
+#navbar-main{
+    /*height: 50px;*/
+
+    margin-left: 250px;
+}
+
+#navigate{
+    /*margin-left: 100px;*/
+}
+
+
+
+#mapContainer{
+    padding: 50px 0px 0px 0px;
+    margin: 0px;
+    width: 98%;
+    height: 100%;
+}
+
+.form-control{
+    top: 0;
+    height: 25px;
+    font-size: 10px;
+}
+
+.btn{
+    top: 0;
+    height: 25px;
+    font-size: 10px;
+}
+
+.input-group-btn:not(:first-child):not(:last-child) >.btn {
+    border-radius: 0;
+}
+
+.input-group{
+    margin: 5px;
+}
+
+#buttonRow{
+    padding: 10px 0px 10px 0px;
+}
+
+#modalYear{
+    text-align: center;
+
+}
+
+#showGP{
+    z-index: 11;
+    width: 150px;
+
+}
+
+.findYear{
+    z-index: 11;
+    width: 150px;
+}
+
+#yearList{
+}
+
+#findAddress{
+    width: 200px;
+    z-index: 11;
+}
+
+.mapCanvas {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#keyCanvas {
+    z-index: 10;
+    /*background-color: red;*/
+}
+
+#keyContainer {
+    /*display: inline-block;*/
+    position: relative;
+    width: 10%;
+    padding-bottom: 30%; /* aspect ratio */
+    vertical-align: bottom;
+    margin-top: 2%;
+    margin-left: 90%;
+    overflow: hidden;
+}
+.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
+
+
+
+/*#infoCanvas{*/
+    /*position: absolute;*/
+    /*width: 100px;*/
+    /*height: 100px;*/
+    /*z-index: 10;*/
+    /*bottom: 20px;*/
+    /*right: 100px;*/
+    /*background-color: orange;*/
+/*}*/
+
+#referenceContainer{
+    padding: 50px 20px 10px 20px;
+}
+
+.loading {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    background-image: url("loading.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    z-index: 12;
+}
+
+/*#gpText{*/
+    /*font-size: 12px;*/
+/*}*/
+
+.gpP{
+    font-size: 12px;
+    padding: 0;
+    margin:0;
+}
+
+
+
+#takemeBtn {
+	font-size: 15px;
+	text-align: left;
+	
+}
+
+#welcomeInfoCanvas{
+	padding: 20px;
+}
+
+#sadFaceImage{
+	height: 20px;
+}

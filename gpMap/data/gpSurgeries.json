@@ -1,0 +1,4488 @@
+{
+	"surgeries": [
+		{
+			"name": "St Clements Surgery",
+			"address": "Tanner Street\nWinchester\nHampshire\nSO23 8AD",
+			"post_code": "SO23 8AD",
+			"nhs_choices_user_rating": "3.5 out of 5 - 28 ratings",
+			"registered_patients": "16894.00",
+			"geoCode": {
+				"lat": 51.0626428,
+				"lng": -1.3106247
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Paul's Surgery",
+			"address": "Alison Way\nWinchester\nHampshire\nSO22 5DD",
+			"post_code": "SO22 5DD",
+			"nhs_choices_user_rating": "4.5 out of 5 - 66 ratings",
+			"registered_patients": "14928.00",
+			"geoCode": {
+				"lat": 51.0656372,
+				"lng": -1.3215068
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Friarsgate Practice",
+			"address": "Stockbridge Road\nWeeke Winchester\nHampshire\nSO22 6EL",
+			"post_code": "SO22 6EL",
+			"nhs_choices_user_rating": "3.5 out of 5 - 14 ratings",
+			"registered_patients": "23883.00",
+			"geoCode": {
+				"lat": 51.0741094,
+				"lng": -1.3375663
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Springvale Surgery",
+			"address": "40 Pound Road\nKings Worthy\nWinchester\nSO23 7PU",
+			"post_code": "SO23 7PU",
+			"nhs_choices_user_rating": "3.0 out of 5 - 3 ratings",
+			"registered_patients": "23883.00",
+			"geoCode": {
+				"lat": 51.0993636,
+				"lng": -1.2991419
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Badger Farm Surgery",
+			"address": "Badger Farm Road\nWinchester\nHampshire\nSO22 4QB",
+			"post_code": "SO22 4QB",
+			"nhs_choices_user_rating": "3.0 out of 5 - 1 rating",
+			"registered_patients": "23883.00",
+			"geoCode": {
+				"lat": 51.0464138,
+				"lng": -1.3392197
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Twyford Surgery",
+			"address": "Hazeley Road\nTwyford\nWinchester\nHampshire\nSO21 1QY",
+			"post_code": "SO21 1QY",
+			"nhs_choices_user_rating": "2.5 out of 5 - 15 ratings",
+			"registered_patients": "9594.00",
+			"geoCode": {
+				"lat": 51.0189594,
+				"lng": -1.313739
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Downs Road",
+			"address": "South Wonston\nWinchester\nHants\nSO21 3EW",
+			"post_code": "SO21 3EW",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "6612.00",
+			"geoCode": {
+				"lat": 51.1197251,
+				"lng": -1.3356173
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Colden Common Surgery",
+			"address": "45 Spring Lane\nColden Common\nHampshire\nSO21 1SB",
+			"post_code": "SO21 1SB",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "9594.00",
+			"geoCode": {
+				"lat": 50.9974991,
+				"lng": -1.3205792
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Alresford Group Surgery",
+			"address": "Station Road\nAlresford\nHampshire\nSO24 9JL",
+			"post_code": "SO24 9JL",
+			"nhs_choices_user_rating": "4.0 out of 5 - 3 ratings",
+			"registered_patients": "9302.00",
+			"geoCode": {
+				"lat": 51.0890174,
+				"lng": -1.1613801
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "Sutton Scotney\nWinchester\nHampshire\nSO21 3LE",
+			"post_code": "SO21 3LE",
+			"nhs_choices_user_rating": "4.0 out of 5 - 6 ratings",
+			"registered_patients": "6612.00",
+			"geoCode": {
+				"lat": 51.15418529999999,
+				"lng": -1.3360236
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Fryern Surgery",
+			"address": "Oakmount Road\nChandlers Ford\nEastleigh\nHampshire\nSO53 2LH",
+			"post_code": "SO53 2LH",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "9283.00",
+			"geoCode": {
+				"lat": 50.98051330000001,
+				"lng": -1.3715112
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Brownhill Surgery",
+			"address": "2 Brownhill Road\nChandlers Ford\nHampshire\nSO53 2ZB",
+			"post_code": "SO53 2ZB",
+			"nhs_choices_user_rating": "1.5 out of 5 - 18 ratings",
+			"registered_patients": "7235.00",
+			"geoCode": {
+				"lat": 50.9876969,
+				"lng": -1.3751202
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Boyatt Wood Surgery",
+			"address": "Boyatt Shopping Centre\nShakespeare Road\nEastleigh Hampshire\nSO50 4QP",
+			"post_code": "SO50 4QP",
+			"nhs_choices_user_rating": "4.0 out of 5 - 11 ratings",
+			"registered_patients": "5006.00",
+			"geoCode": {
+				"lat": 50.9778284,
+				"lng": -1.3600638
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Riverside",
+			"address": "Bishopstoke\n Eastleigh\nHampshire\nSO50 6LQ",
+			"post_code": "SO50 6LQ",
+			"nhs_choices_user_rating": "2.5 out of 5 - 7 ratings",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 50.971498,
+				"lng": -1.3375199
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Park Surgery",
+			"address": "Hursley Road\nChandlers Ford\nHampshire\nSO53 2ZH",
+			"post_code": "SO53 2ZH",
+			"nhs_choices_user_rating": "1.5 out of 5 - 2 ratings",
+			"registered_patients": "14942.00",
+			"geoCode": {
+				"lat": 50.984939,
+				"lng": -1.3849225
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Stokewood Surgery",
+			"address": "Fair Oak Road\nFair Oak\nHampshire\nSO50 8AU",
+			"post_code": "SO50 8AU",
+			"nhs_choices_user_rating": "3.5 out of 5 - 10 ratings",
+			"registered_patients": "16798.00",
+			"geoCode": {
+				"lat": 50.96526189999999,
+				"lng": -1.3099596
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Eastleigh Health Centre",
+			"address": "Newtown Road\nEastleigh\nHampshire\nSO50 9AG",
+			"post_code": "SO50 9AG",
+			"nhs_choices_user_rating": "3.0 out of 5 - 22 ratings",
+			"registered_patients": "11275.00",
+			"geoCode": {
+				"lat": 50.97107010000001,
+				"lng": -1.3536547
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Eastleigh Health Centre",
+			"address": "Newtown Road\nEastleigh\nHampshire\nSO50 9AG",
+			"post_code": "SO50 9AG",
+			"nhs_choices_user_rating": "2.0 out of 5 - 8 ratings",
+			"registered_patients": "7320.00",
+			"geoCode": {
+				"lat": 50.97107010000001,
+				"lng": -1.3536547
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Andrew's Surgery",
+			"address": "166 Market Street\nEastleigh\nHampshire\nSO50 5PT",
+			"post_code": "SO50 5PT",
+			"nhs_choices_user_rating": "3.0 out of 5 - 6 ratings",
+			"registered_patients": "8681.00",
+			"geoCode": {
+				"lat": 50.965089,
+				"lng": -1.3524209
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Knightwood Surgery",
+			"address": "Pilgrims Close\nChandlers Ford\nEastleigh Hampshire\nSO53 4SD",
+			"post_code": "SO53 4SD",
+			"nhs_choices_user_rating": "4.5 out of 5 - 3 ratings",
+			"registered_patients": "11275.00",
+			"geoCode": {
+				"lat": 50.97841099999999,
+				"lng": -1.4038331
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Francis Surgery",
+			"address": "Pilgrims Close\nChandlers Ford\nHampshire\nSO53 4ST",
+			"post_code": "SO53 4ST",
+			"nhs_choices_user_rating": "3.0 out of 5 - 8 ratings",
+			"registered_patients": "14942.00",
+			"geoCode": {
+				"lat": 50.9780797,
+				"lng": -1.401806
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Lower Lane\nBishops Waltham\nHampshire\nSO32 1GR",
+			"post_code": "SO32 1GR",
+			"nhs_choices_user_rating": "2.5 out of 5 - 19 ratings",
+			"registered_patients": "12814.00",
+			"geoCode": {
+				"lat": 50.9555286,
+				"lng": -1.2126937
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "North Baddesley Surgery",
+			"address": "Norton Welch Close\nFleming Avenue\nNorth Baddesley Southampton\nSO52 9EP",
+			"post_code": "SO52 9EP",
+			"nhs_choices_user_rating": "1.0 out of 5 - 5 ratings",
+			"registered_patients": "6893.00",
+			"geoCode": {
+				"lat": 50.97462789999999,
+				"lng": -1.4362461
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "New Street\nStockbridge\nHampshire\nSO20 6HG",
+			"post_code": "SO20 6HG",
+			"nhs_choices_user_rating": "3.5 out of 5 - 8 ratings",
+			"registered_patients": "8946.00",
+			"geoCode": {
+				"lat": 51.1132741,
+				"lng": -1.4899025
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Stoneham Lane Surgery",
+			"address": "City Gateway\nParkville Road,  Southampton\nHampshire\nHampshire\nSO16 2JA",
+			"post_code": "SO16 2JA",
+			"nhs_choices_user_rating": "3.0 out of 5 - 5 ratings",
+			"registered_patients": "6232.00",
+			"geoCode": {
+				"lat": 50.9392426,
+				"lng": -1.378512
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Doctors Lane",
+			"address": "West Meon\nPetersfield\nHampshire\nGU32 1LR",
+			"post_code": "GU32 1LR",
+			"nhs_choices_user_rating": "3.0 out of 5 - 2 ratings",
+			"registered_patients": "2515.00",
+			"geoCode": {
+				"lat": 51.01290849999999,
+				"lng": -1.0833622
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Townhill Surgery",
+			"address": "Wessex Road\nWest End\nSouthampton\nSO18 3RA",
+			"post_code": "SO18 3RA",
+			"nhs_choices_user_rating": "2.0 out of 5 - 19 ratings",
+			"registered_patients": "5408.00",
+			"geoCode": {
+				"lat": 50.9329763,
+				"lng": -1.3522976
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "35 The Park",
+			"address": "Droxford\nSO32 3QQ",
+			"post_code": "SO32 3QQ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "11835.00",
+			"geoCode": {
+				"lat": 50.9618744,
+				"lng": -1.141125
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "Moorgreen Road\nWest End\nSouthampton\nHampshire\nSO30 3PY",
+			"post_code": "SO30 3PY",
+			"nhs_choices_user_rating": "3.5 out of 5 - 5 ratings",
+			"registered_patients": "7577.00",
+			"geoCode": {
+				"lat": 50.9282331,
+				"lng": -1.3279867
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Luke's Close",
+			"address": "Hedge End\nSouthampton\nHampshire\nSO30 2US",
+			"post_code": "SO30 2US",
+			"nhs_choices_user_rating": "2.5 out of 5 - 7 ratings",
+			"registered_patients": "12670.00",
+			"geoCode": {
+				"lat": 50.925883,
+				"lng": -1.3026112
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Dr B P Dave & Partners",
+			"address": "357a Burgess Road\nBassett Southampton\nHampshire\nSO16 3BD",
+			"post_code": "SO16 3BD",
+			"nhs_choices_user_rating": "3.0 out of 5 - 4 ratings",
+			"registered_patients": "8631.00",
+			"geoCode": {
+				"lat": 50.9386786,
+				"lng": -1.3858064
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Great Well Drive",
+			"address": "Romsey\nSO51 7QN",
+			"post_code": "SO51 7QN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "9676.00",
+			"geoCode": {
+				"lat": 50.99182159999999,
+				"lng": -1.4859842
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Midanbury Surgery",
+			"address": "1 Woodmill Lane\nSouthampton\nHampshire\nSO18 2PA",
+			"post_code": "SO18 2PA",
+			"nhs_choices_user_rating": "2.0 out of 5 - 5 ratings",
+			"registered_patients": "8500.00",
+			"geoCode": {
+				"lat": 50.92666269999999,
+				"lng": -1.3648147
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Highfield Health",
+			"address": "31 University Road\nHighfield Southampton\nHampshire\nSO17 1BJ",
+			"post_code": "SO17 1BJ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 9 ratings",
+			"registered_patients": "3987.00",
+			"geoCode": {
+				"lat": 50.93301169999999,
+				"lng": -1.3958509
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "University Health Service",
+			"address": "Building 48, University of Southampton\nHighfield\nSouthampton\nHampshire\nSO17 1BJ",
+			"post_code": "SO17 1BJ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "13992.00",
+			"geoCode": {
+				"lat": 50.936978,
+				"lng": -1.396518
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Alma Road",
+			"address": "Romsey \nHampshire\nSO51 8ED",
+			"post_code": "SO51 8ED",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "12465.00",
+			"geoCode": {
+				"lat": 50.9905969,
+				"lng": -1.4938199
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Harefield Surgery",
+			"address": "21 Exford Avenue\nHarefield Southampton\nHampshire\nSO18 5JL",
+			"post_code": "SO18 5JL",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "9149.00",
+			"geoCode": {
+				"lat": 50.9186579,
+				"lng": -1.3448246
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bitterne Park Surgery",
+			"address": "Bitterne Medical Centre\nThorold Road Southampton\nSouthampton\nSO18 1HZ",
+			"post_code": "SO18 1HZ",
+			"nhs_choices_user_rating": "2.5 out of 5 - 9 ratings",
+			"registered_patients": "8637.00",
+			"geoCode": {
+				"lat": 50.9241097,
+				"lng": -1.3719419
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Mortimer Road",
+			"address": "Botley\nSouthampton\nHampshire\nSO32 2UG",
+			"post_code": "SO32 2UG",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "12670.00",
+			"geoCode": {
+				"lat": 50.9143581,
+				"lng": -1.2751303
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hedge End Medical Centre",
+			"address": "24-28 Lower Northam Road\nHedge End Southampton\nHampshire\nSO30 4FQ",
+			"post_code": "SO30 4FQ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 16 ratings",
+			"registered_patients": "13049.00",
+			"geoCode": {
+				"lat": 50.9142389,
+				"lng": -1.2998122
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Mulberry House Surgery",
+			"address": "38 Highfield Road\nHighfield\nSouthampton\nHampshire\nSO17 1PJ",
+			"post_code": "SO17 1PJ",
+			"nhs_choices_user_rating": "4.5 out of 5 - 8 ratings",
+			"registered_patients": "4547.00",
+			"geoCode": {
+				"lat": 50.9313203,
+				"lng": -1.4026377
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Mansfield Park Surgery",
+			"address": "Lymington Bottom Road\nMedstead\nHampshire\nGU34 5EW",
+			"post_code": "GU34 5EW",
+			"nhs_choices_user_rating": "5.0 out of 5 - 6 ratings",
+			"registered_patients": "7260.00",
+			"geoCode": {
+				"lat": 51.1120876,
+				"lng": -1.0542593
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Aldermoor Health Centre",
+			"address": "Aldermoor Close\nSouthampton\nHampshire\nSO16 5ST",
+			"post_code": "SO16 5ST",
+			"nhs_choices_user_rating": "1.5 out of 5 - 22 ratings",
+			"registered_patients": "8302.00",
+			"geoCode": {
+				"lat": 50.94069690000001,
+				"lng": -1.4272968
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Thornhill Park Surgery",
+			"address": "90 Thornhill Park Road\nThornhill\nSouthampton Hampshire\nSO18 5TS",
+			"post_code": "SO18 5TS",
+			"nhs_choices_user_rating": "2.5 out of 5 - 9 ratings",
+			"registered_patients": "8500.00",
+			"geoCode": {
+				"lat": 50.91475519999999,
+				"lng": -1.3348115
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Deny's Surgery",
+			"address": "7 St Deny's Road\nPortswood\nSouthampton Hampshire\nSO17 2GN",
+			"post_code": "SO17 2GN",
+			"nhs_choices_user_rating": "4.0 out of 5 - 4 ratings",
+			"registered_patients": "1687.00",
+			"geoCode": {
+				"lat": 50.9259377,
+				"lng": -1.3902425
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Abbey Mead Surgery",
+			"address": "The Abbey\nRomsey\nHampshire\nSO51 8EN",
+			"post_code": "SO51 8EN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "9057.00",
+			"geoCode": {
+				"lat": 50.98891930000001,
+				"lng": -1.5014475
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bitterne Surgery",
+			"address": "62 West End Road\nBitterne Southampton\nHampshire\nSO18 6TG",
+			"post_code": "SO18 6TG",
+			"nhs_choices_user_rating": "3.5 out of 5 - 14 ratings",
+			"registered_patients": "10879.00",
+			"geoCode": {
+				"lat": 50.9174266,
+				"lng": -1.358775
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "7 Belmont Road",
+			"address": "Portswood\nSouthampton\nHampshire\nHampshire\nSO17 2GD",
+			"post_code": "SO17 2GD",
+			"nhs_choices_user_rating": "4.0 out of 5 - 17 ratings",
+			"registered_patients": "4933.00",
+			"geoCode": {
+				"lat": 50.92746500000001,
+				"lng": -1.390676
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bitterne Health Centre",
+			"address": "Commercial Street\nBitterne\nSouthampton\nHampshire\nSO18 6BT",
+			"post_code": "SO18 6BT",
+			"nhs_choices_user_rating": "2.5 out of 5 - 29 ratings",
+			"registered_patients": "12551.00",
+			"geoCode": {
+				"lat": 50.9154618,
+				"lng": -1.354219
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Thornhill Doctors Surgery",
+			"address": "Pepys Avenue\nThornhill\nSouthampton Hampshire\nSO19 6PJ",
+			"post_code": "SO19 6PJ",
+			"nhs_choices_user_rating": "4.5 out of 5 - 4 ratings",
+			"registered_patients": "10879.00",
+			"geoCode": {
+				"lat": 50.90974259999999,
+				"lng": -1.3360473
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "4 Chessel Avenue",
+			"address": "Bitterne\nSouthampton\nSouthampton\nSO19 4AA",
+			"post_code": "SO19 4AA",
+			"nhs_choices_user_rating": "1.0 out of 5 - 5 ratings",
+			"registered_patients": "13122.00",
+			"geoCode": {
+				"lat": 50.9136058,
+				"lng": -1.3652689
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Boundaries Surgery",
+			"address": "17 Winchester Road\nFour Marks\nHampshire\nGU34 5HG",
+			"post_code": "GU34 5HG",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "3556.00",
+			"geoCode": {
+				"lat": 51.1120655,
+				"lng": -1.0427027
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "68 Alma Road",
+			"address": "Portswood\nSouthampton\nHampshire\nSO14 6UX",
+			"post_code": "SO14 6UX",
+			"nhs_choices_user_rating": "2.5 out of 5 - 18 ratings",
+			"registered_patients": "10027.00",
+			"geoCode": {
+				"lat": 50.9217766,
+				"lng": -1.4003697
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Lordshill Health Centre",
+			"address": "Lordshill District Centre\nLordshill Southampton\nHampshire\nSO16 8HY",
+			"post_code": "SO16 8HY",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "10393.00",
+			"geoCode": {
+				"lat": 50.9407025,
+				"lng": -1.4490444
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Whitchurch Surgery",
+			"address": "Bell Street\nWhitchurch\nHampshire\nRG28 7AE",
+			"post_code": "RG28 7AE",
+			"nhs_choices_user_rating": "1.0 out of 5 - 1 rating",
+			"registered_patients": "5487.00",
+			"geoCode": {
+				"lat": 51.2300754,
+				"lng": -1.3398494
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Newtown Health Clinic",
+			"address": "Lyon Street\nNewtown\nSouthampton Hants\nSO14 0WX",
+			"post_code": "SO14 0WX",
+			"nhs_choices_user_rating": "4.5 out of 5 - 2 ratings",
+			"registered_patients": "10027.00",
+			"geoCode": {
+				"lat": 50.9135001,
+				"lng": -1.396566
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Nicholstown Surgery",
+			"address": "Royal South Hants Hospital\nGraham Road\nSouthampton Hampshire\nSO14 0YG",
+			"post_code": "SO14 0YG",
+			"nhs_choices_user_rating": "2.5 out of 5 - 14 ratings",
+			"registered_patients": "4143.00",
+			"geoCode": {
+				"lat": 50.9124653,
+				"lng": -1.396094
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Walnut Tree Surgery",
+			"address": "14 Carlton Road\nSouthampton\nHampshire\nSO15 2HQ",
+			"post_code": "SO15 2HQ",
+			"nhs_choices_user_rating": "4.5 out of 5 - 15 ratings",
+			"registered_patients": "2980.00",
+			"geoCode": {
+				"lat": 50.9148995,
+				"lng": -1.4065843
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "34 Raymond Road\nUpper Shirley Southampton\nHampshire\nSO15 5AL",
+			"post_code": "SO15 5AL",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "3578.00",
+			"geoCode": {
+				"lat": 50.91922779999999,
+				"lng": -1.4191102
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Victor Street Surgery",
+			"address": "Victor Street\nShirley Southampton\nHampshire\nSO15 5SY",
+			"post_code": "SO15 5SY",
+			"nhs_choices_user_rating": "3.0 out of 5 - 16 ratings",
+			"registered_patients": "12518.00",
+			"geoCode": {
+				"lat": 50.9242879,
+				"lng": -1.433018
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Sullivan Road",
+			"address": "Sholing\nSouthampton\nHampshire\nSO19 0HS",
+			"post_code": "SO19 0HS",
+			"nhs_choices_user_rating": "1.5 out of 5 - 18 ratings",
+			"registered_patients": "13122.00",
+			"geoCode": {
+				"lat": 50.9002433,
+				"lng": -1.3393844
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hill Lane Surgery",
+			"address": "162 Hill Lane\nShirley Southampton\nHampshire\nSO15 5DD",
+			"post_code": "SO15 5DD",
+			"nhs_choices_user_rating": "2.5 out of 5 - 11 ratings",
+			"registered_patients": "8007.00",
+			"geoCode": {
+				"lat": 50.9170807,
+				"lng": -1.4153579
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Shirley Avenue",
+			"address": "Shirley\nSouthampton\nHampshire\nSO15 5RP",
+			"post_code": "SO15 5RP",
+			"nhs_choices_user_rating": "4.5 out of 5 - 3 ratings",
+			"registered_patients": "14985.00",
+			"geoCode": {
+				"lat": 50.923615,
+				"lng": -1.424985
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Regents Park Surgery",
+			"address": "Park Street\nShirley Southampton\nHampshire\nSO16 4RJ",
+			"post_code": "SO16 4RJ",
+			"nhs_choices_user_rating": "3.0 out of 5 - 11 ratings",
+			"registered_patients": "5799.00",
+			"geoCode": {
+				"lat": 50.9225305,
+				"lng": -1.4344459
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Adelaide GP Surgery",
+			"address": "Adelaide Health Centre\nWilliam Macleod Way\nSouthampton\nHampshire\nSO16 4XE",
+			"post_code": "SO16 4XE",
+			"nhs_choices_user_rating": "2.0 out of 5 - 20 ratings",
+			"registered_patients": "3917.00",
+			"geoCode": {
+				"lat": 50.9252483,
+				"lng": -1.4460398
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Shirley Health Centre",
+			"address": "Grove Road\nShirley Southampton\nHampshire\nSO15 3UA",
+			"post_code": "SO15 3UA",
+			"nhs_choices_user_rating": "4.5 out of 5 - 34 ratings",
+			"registered_patients": "10115.00",
+			"geoCode": {
+				"lat": 50.9166393,
+				"lng": -1.4287425
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Atherley House Surgery",
+			"address": "143-145 Shirley Road\nShirley Southampton\nHampshire\nSO15 3FH",
+			"post_code": "SO15 3FH",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "4588.00",
+			"geoCode": {
+				"lat": 50.9133773,
+				"lng": -1.4217147
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Mary's Surgery",
+			"address": "1 Johnson Street\nSouthampton\nHampshire\nSO14 1LT",
+			"post_code": "SO14 1LT",
+			"nhs_choices_user_rating": "1.0 out of 5 - 28 ratings",
+			"registered_patients": "18792.00",
+			"geoCode": {
+				"lat": 50.905764,
+				"lng": -1.3974606
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Brook House Surgery",
+			"address": "98 Oakley Road\nShirley Southampton\nHampshire\nSO16 4NZ",
+			"post_code": "SO16 4NZ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 8 ratings",
+			"registered_patients": "4505.00",
+			"geoCode": {
+				"lat": 50.9217577,
+				"lng": -1.4455246
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Peters Surgery",
+			"address": "49-55 Portsmouth Road\nWoolston Southampton\nHampshire\nSO19 9RL",
+			"post_code": "SO19 9RL",
+			"nhs_choices_user_rating": "2.0 out of 5 - 5 ratings",
+			"registered_patients": "5156.00",
+			"geoCode": {
+				"lat": 50.89781929999999,
+				"lng": -1.3727213
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Wickham Surgery",
+			"address": "Houghton Way\nWickham\nFareham\nHampshire\nPO17 5GU",
+			"post_code": "PO17 5GU",
+			"nhs_choices_user_rating": "4.5 out of 5 - 9 ratings",
+			"registered_patients": "11835.00",
+			"geoCode": {},
+			"geoStatus": "ZERO_RESULTS"
+		},
+		{
+			"name": "Woolston Lodge Surgery",
+			"address": "Hazeleigh Medical Centre\n66 Portsmouth Road, Woolston\nSouthampton\nHampshire\nSO19 9AL",
+			"post_code": "SO19 9AL",
+			"nhs_choices_user_rating": "3.5 out of 5 - 12 ratings",
+			"registered_patients": "9016.00",
+			"geoCode": {
+				"lat": 50.8971258,
+				"lng": -1.371987
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Canute Surgery",
+			"address": "Hazeleigh Medical Centre\n66a Portsmouth Road,  Woolston\nSouthampton\nHampshire\nSO19 9AL",
+			"post_code": "SO19 9AL",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "4567.00",
+			"geoCode": {
+				"lat": 50.8972891,
+				"lng": -1.3727995
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bursledon Surgery",
+			"address": "The Lowford Centre\nLowford, Southampton\nHampshire\nHampshire\nSO31 8ES",
+			"post_code": "SO31 8ES",
+			"nhs_choices_user_rating": "5.0 out of 5 - 12 ratings",
+			"registered_patients": "3509.00",
+			"geoCode": {
+				"lat": 50.8896907,
+				"lng": -1.3167433
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Old Fire Station Surgery",
+			"address": "68a Portsmouth Road\nWoolston Southampton\nHampshire\nSO19 9AN",
+			"post_code": "SO19 9AN",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "8386.00",
+			"geoCode": {
+				"lat": 50.8963091,
+				"lng": -1.3694853
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "School Lane",
+			"address": "Broughton\nHampshire\nSO20 8BZ",
+			"post_code": "SO20 8BZ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "8946.00",
+			"geoCode": {
+				"lat": 51.0976662,
+				"lng": -1.5674698
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Spitfire Court Surgery",
+			"address": "39 Spitfire Court\nMitchell Close Woolston\nSouthampton Hampshire\nSO19 7TN",
+			"post_code": "SO19 7TN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 50.8983226,
+				"lng": -1.3819782
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bargate Medical Centre",
+			"address": "1 Spa Road\nSouthampton\nHampshire\nSO14 2EG",
+			"post_code": "SO14 2EG",
+			"nhs_choices_user_rating": "3.5 out of 5 - 4 ratings",
+			"registered_patients": "3884.00",
+			"geoCode": {
+				"lat": 50.903527,
+				"lng": -1.4048989
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Cheviot Road",
+			"address": "Millbrook\nSouthampton\nHampshire\nSO16 4AH",
+			"post_code": "SO16 4AH",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "14985.00",
+			"geoCode": {
+				"lat": 50.9213653,
+				"lng": -1.4559736
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Overton Surgery",
+			"address": "Station Road\nOverton Basingstoke\nHampshire\nRG25 3DZ",
+			"post_code": "RG25 3DZ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "11145.00",
+			"geoCode": {
+				"lat": 51.2471945,
+				"lng": -1.2605059
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Adelaide Road",
+			"address": "Andover\nHampshire\nSP10 1HA",
+			"post_code": "SP10 1HA",
+			"nhs_choices_user_rating": "2.0 out of 5 - 3 ratings",
+			"registered_patients": "9060.00",
+			"geoCode": {
+				"lat": 51.20853899999999,
+				"lng": -1.4752739
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "70 - 75 High Street",
+			"address": "Southampton\nSO14 2NW",
+			"post_code": "SO14 2NW",
+			"nhs_choices_user_rating": "2.5 out of 5 - 4 ratings",
+			"registered_patients": "18792.00",
+			"geoCode": {
+				"lat": 50.8977117,
+				"lng": -1.403679
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Whiteley Surgery",
+			"address": "Yew Tree Drive\nWhiteley\nHampshire\nPO15 7LB",
+			"post_code": "PO15 7LB",
+			"nhs_choices_user_rating": "2.0 out of 5 - 39 ratings",
+			"registered_patients": "13176.00",
+			"geoCode": {
+				"lat": 50.88130959999999,
+				"lng": -1.2578035
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Weston Lane Surgery",
+			"address": "Weston Lane\nSouthampton\nHampshire\nSO19 9GH",
+			"post_code": "SO19 9GH",
+			"nhs_choices_user_rating": "1.5 out of 5 - 8 ratings",
+			"registered_patients": "9149.00",
+			"geoCode": {
+				"lat": 50.8883522,
+				"lng": -1.3708654
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Marys Surgery",
+			"address": "Church Close\nAndover\nHampshire\nSP10 1DP",
+			"post_code": "SP10 1DP",
+			"nhs_choices_user_rating": "4.5 out of 5 - 8 ratings",
+			"registered_patients": "11364.00",
+			"geoCode": {
+				"lat": 51.2100083,
+				"lng": -1.4775538
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Beggarwood Surgery",
+			"address": "Broadmere Road\nBeggarwood Basingstoke\nHampshire\nRG22 4AQ",
+			"post_code": "RG22 4AQ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 3 ratings",
+			"registered_patients": "6878.00",
+			"geoCode": {
+				"lat": 51.22919539999999,
+				"lng": -1.1417901
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hambledon Village Hall",
+			"address": "Hambledon\nHampshire\nPO7 4RX",
+			"post_code": "PO7 4RX",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "9130.00",
+			"geoCode": {
+				"lat": 50.932129,
+				"lng": -1.0788173
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Oakley Surgery",
+			"address": "Sainfoin Lane\nOakley Basingstoke\nHampshire\nRG23 7HZ",
+			"post_code": "RG23 7HZ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "11145.00",
+			"geoCode": {
+				"lat": 51.2418104,
+				"lng": -1.172263
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Derrydown Clinic",
+			"address": "Derry Down St Mary Bourne\nAndover\nHampshire\nSP11 6BS",
+			"post_code": "SP11 6BS",
+			"nhs_choices_user_rating": "4.5 out of 5 - 6 ratings",
+			"registered_patients": "2673.00",
+			"geoCode": {
+				"lat": 51.24541199999999,
+				"lng": -1.3962444
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Shepherds Spring Medical Centre",
+			"address": "Cricketers Way\nAndover\nHampshire\nSP10 5DE",
+			"post_code": "SP10 5DE",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "9939.00",
+			"geoCode": {
+				"lat": 51.22222259999999,
+				"lng": -1.4692569
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Satchell Lane",
+			"address": "Hamble\nHampshire\nSO31 4NQ",
+			"post_code": "SO31 4NQ",
+			"nhs_choices_user_rating": "3.0 out of 5 - 9 ratings",
+			"registered_patients": "12439.00",
+			"geoCode": {
+				"lat": 50.87600219999999,
+				"lng": -1.3272763
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Totton Health Centre",
+			"address": "Testwood Lane\nTotton Southampton\nHampshire\nSO40 3ZN",
+			"post_code": "SO40 3ZN",
+			"nhs_choices_user_rating": "4.0 out of 5 - 6 ratings",
+			"registered_patients": "11697.00",
+			"geoCode": {
+				"lat": 50.9225182,
+				"lng": -1.4886028
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Testvale Surgery",
+			"address": "12 Salisbury Road\nTotton\nHampshire\nSO40 3PY",
+			"post_code": "SO40 3PY",
+			"nhs_choices_user_rating": "4.0 out of 5 - 6 ratings",
+			"registered_patients": "12966.00",
+			"geoCode": {
+				"lat": 50.9194231,
+				"lng": -1.4898974
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Brook Lane Surgery",
+			"address": "233a Brook Lane\nSarisbury Green Southampton\nHampshire\nSO31 7DQ",
+			"post_code": "SO31 7DQ",
+			"nhs_choices_user_rating": "2.5 out of 5 - 11 ratings",
+			"registered_patients": "11381.00",
+			"geoCode": {
+				"lat": 50.8715262,
+				"lng": -1.2736202
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Charlton Hill Surgery",
+			"address": "Charlton Road\nAndover\nHampshire\nSP10 3JY",
+			"post_code": "SP10 3JY",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "10765.00",
+			"geoCode": {
+				"lat": 51.2134796,
+				"lng": -1.4927543
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Charlton Road",
+			"address": "Andover\nHampshire\nSP10 3LD",
+			"post_code": "SP10 3LD",
+			"nhs_choices_user_rating": "3.5 out of 5 - 6 ratings",
+			"registered_patients": "14193.00",
+			"geoCode": {
+				"lat": 51.215218,
+				"lng": -1.4952421
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Chawton Park Surgery",
+			"address": "Chawton Park Road\nAlton\nHampshire\nGU34 1RJ",
+			"post_code": "GU34 1RJ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "9368.00",
+			"geoCode": {
+				"lat": 51.1394718,
+				"lng": -0.9892915999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Old Malthouse",
+			"address": "Main Road\nMarchwood\nSouthampton\nHampshire\nSO40 4UZ",
+			"post_code": "SO40 4UZ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "10860.00",
+			"geoCode": {
+				"lat": 50.8909488,
+				"lng": -1.4493961
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Lockswood Surgery",
+			"address": "Centre Way\nLocks Heath\nSouthampton, Hampshire\nSO31 6DX",
+			"post_code": "SO31 6DX",
+			"nhs_choices_user_rating": "2.5 out of 5 - 20 ratings",
+			"registered_patients": "13023.00",
+			"geoCode": {
+				"lat": 50.8629182,
+				"lng": -1.2750492
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Forest Gate Surgery",
+			"address": "1 Hazel Farm Road\nTotton\nSouthampton\nHampshire\nSO40 8WU",
+			"post_code": "SO40 8WU",
+			"nhs_choices_user_rating": "1.5 out of 5 - 8 ratings",
+			"registered_patients": "13413.00",
+			"geoCode": {
+				"lat": 50.91695499999999,
+				"lng": -1.5142215
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The White House",
+			"address": "1 Newbury Road\nEnham Alamein, Andover\nHampshire\nSP11 6HJ",
+			"post_code": "SP11 6HJ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "10765.00",
+			"geoCode": {
+				"lat": 51.2376504,
+				"lng": -1.474241
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Jones Lane",
+			"address": "Jones Lane\nHythe Southampton\nHythe\nSO45 6AW",
+			"post_code": "SO45 6AW",
+			"nhs_choices_user_rating": "3.5 out of 5 - 8 ratings",
+			"registered_patients": "7062.00",
+			"geoCode": {
+				"lat": 50.87017669999999,
+				"lng": -1.4033829
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Sullivan Road",
+			"address": "Brighton Hill\nBasingstoke\nHampshire\nRG22 4EH",
+			"post_code": "RG22 4EH",
+			"nhs_choices_user_rating": "2.5 out of 5 - 28 ratings",
+			"registered_patients": "19975.00",
+			"geoCode": {
+				"lat": 51.2449694,
+				"lng": -1.1133602
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Highlands Practice",
+			"address": "102 Highlands Road\nFareham\nHampshire\nPO15 6JF",
+			"post_code": "PO15 6JF",
+			"nhs_choices_user_rating": "3.0 out of 5 - 12 ratings",
+			"registered_patients": "15881.00",
+			"geoCode": {
+				"lat": 50.8600682,
+				"lng": -1.2097044
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "187 Gudgeheath Lane",
+			"address": "Fareham\nHampshire\nPO15 6QA",
+			"post_code": "PO15 6QA",
+			"nhs_choices_user_rating": "4.5 out of 5 - 10 ratings",
+			"registered_patients": "8393.00",
+			"geoCode": {
+				"lat": 50.8597336,
+				"lng": -1.2054618
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Denmead Health Centre",
+			"address": "Hambledon Road\nDenmead Waterlooville\nHampshire\nPO7 6NR",
+			"post_code": "PO7 6NR",
+			"nhs_choices_user_rating": "5.0 out of 5 - 6 ratings",
+			"registered_patients": "9130.00",
+			"geoCode": {
+				"lat": 50.9018137,
+				"lng": -1.0609137
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Andrews Centre",
+			"address": "Western Way\nBasingstoke\nHampshire\nRG22 6ER",
+			"post_code": "RG22 6ER",
+			"nhs_choices_user_rating": "2.5 out of 5 - 30 ratings",
+			"registered_patients": "11430.00",
+			"geoCode": {
+				"lat": 51.2568548,
+				"lng": -1.1126344
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Jubilee Surgery",
+			"address": "Barrys Meadow\nHigh Street Titchfield\nHampshire\nPO14 4EH",
+			"post_code": "PO14 4EH",
+			"nhs_choices_user_rating": "3.0 out of 5 - 23 ratings",
+			"registered_patients": "9321.00",
+			"geoCode": {
+				"lat": 50.8499708,
+				"lng": -1.2355723
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Alton Health Centre",
+			"address": "Anstey Road\nAlton\nHampshire\nGU34 2QX",
+			"post_code": "GU34 2QX",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "13826.00",
+			"geoCode": {
+				"lat": 51.1542221,
+				"lng": -0.9670074
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Waterside Health Centre",
+			"address": "Beaulieu Road\nHythe\nSouthampton\nHampshire\nSO45 5WX",
+			"post_code": "SO45 5WX",
+			"nhs_choices_user_rating": "3.5 out of 5 - 10 ratings",
+			"registered_patients": "24587.00",
+			"geoCode": {
+				"lat": 50.8552997,
+				"lng": -1.4117925
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Clanfield Surgery",
+			"address": "2 White Dirt Lane\nClanfield Waterlooville\nHampshire\nPO8 0QL",
+			"post_code": "PO8 0QL",
+			"nhs_choices_user_rating": "4.0 out of 5 - 4 ratings",
+			"registered_patients": "7615.00",
+			"geoCode": {
+				"lat": 50.9354375,
+				"lng": -1.0001076
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Fareham Health Centre",
+			"address": "Osborn Road\nFareham\nHampshire\nPO16 7ER",
+			"post_code": "PO16 7ER",
+			"nhs_choices_user_rating": "4.0 out of 5 - 38 ratings",
+			"registered_patients": "14632.00",
+			"geoCode": {
+				"lat": 50.8548215,
+				"lng": -1.1794768
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Swan Surgery",
+			"address": "Swan Street\nPetersfield\nHampshire\nGU32 3AB",
+			"post_code": "GU32 3AB",
+			"nhs_choices_user_rating": "4.5 out of 5 - 11 ratings",
+			"registered_patients": "13468.00",
+			"geoCode": {
+				"lat": 51.00460229999999,
+				"lng": -0.9429389
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Grange Surgery",
+			"address": "The Causeway\nPetersfield\nHampshire\nGU31 4JR",
+			"post_code": "GU31 4JR",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "7457.00",
+			"geoCode": {
+				"lat": 51.0012372,
+				"lng": -0.9379409999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Forestside Medical Practice",
+			"address": "Beaulieu Road\nDibden Purlieu\nSouthampton\nHampshire\nSO45 4JA",
+			"post_code": "SO45 4JA",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "10860.00",
+			"geoCode": {
+				"lat": 50.8552997,
+				"lng": -1.4117925
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Hackwood Partnership",
+			"address": "Essex House\nEssex Road\nBasingstoke Hampshire\nRG21 8SU",
+			"post_code": "RG21 8SU",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "13102.00",
+			"geoCode": {
+				"lat": 51.26422179999999,
+				"lng": -1.0938231
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Middleton Road\nWinterslow\nSalisbury Wiltshire\nSP5 1PQ",
+			"post_code": "SP5 1PQ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "8755.00",
+			"geoCode": {
+				"lat": 51.0927717,
+				"lng": -1.652669
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Whiteparish Surgery",
+			"address": "Common Road\nWhiteparish\nSalisbury Wiltshire\nSP5 2SU",
+			"post_code": "SP5 2SU",
+			"nhs_choices_user_rating": "3.5 out of 5 - 4 ratings",
+			"registered_patients": "6758.00",
+			"geoCode": {
+				"lat": 51.0092886,
+				"lng": -1.6508703
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Crown Heights Medical Centre",
+			"address": "2 Dickson House Crown Heights\nAlencon Link Basingstoke\nHampshire\nRG21 7AN",
+			"post_code": "RG21 7AN",
+			"nhs_choices_user_rating": "3.0 out of 5 - 10 ratings",
+			"registered_patients": "24027.00",
+			"geoCode": {
+				"lat": 51.26760179999999,
+				"lng": -1.0863469
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Dickson House",
+			"address": "Crown Heights\nAlencon Link Basingstoke\nHampshire\nRG21 7AP",
+			"post_code": "RG21 7AP",
+			"nhs_choices_user_rating": "2.5 out of 5 - 14 ratings",
+			"registered_patients": "11817.00",
+			"geoCode": {
+				"lat": 51.2674225,
+				"lng": -1.0864222
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Waterlooville Health Centre",
+			"address": "Dryden Close\nWaterlooville\nWaterlooville\nPO7 6AJ",
+			"post_code": "PO7 6AJ",
+			"nhs_choices_user_rating": "2.5 out of 5 - 5 ratings",
+			"registered_patients": "20430.00",
+			"geoCode": {
+				"lat": 50.8917358,
+				"lng": -1.033561
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Park Prewett Medical Centre",
+			"address": "Park Prewett Road\nBasingstoke\nHampshire\nRG24 9RG",
+			"post_code": "RG24 9RG",
+			"nhs_choices_user_rating": "2.0 out of 5 - 16 ratings",
+			"registered_patients": "6082.00",
+			"geoCode": {
+				"lat": 51.28201989999999,
+				"lng": -1.1189798
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Horndean Health Centre",
+			"address": "Blendworth Lane\nHorndean Waterlooville\nHampshire\nPO8 0AA",
+			"post_code": "PO8 0AA",
+			"nhs_choices_user_rating": "4.0 out of 5 - 18 ratings",
+			"registered_patients": "4701.00",
+			"geoCode": {
+				"lat": 50.9138928,
+				"lng": -0.9938309
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Cowplain Surgery",
+			"address": "133 London Road\nCowplain\nHampshire\nPO8 8XL",
+			"post_code": "PO8 8XL",
+			"nhs_choices_user_rating": "5.0 out of 5 - 7 ratings",
+			"registered_patients": "4309.00",
+			"geoCode": {
+				"lat": 50.8970791,
+				"lng": -1.0167096
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Portchester Health Centre",
+			"address": "West Street\nPortchester\nFareham\nHampshire\nPO16 9TU",
+			"post_code": "PO16 9TU",
+			"nhs_choices_user_rating": "3.5 out of 5 - 12 ratings",
+			"registered_patients": "8742.00",
+			"geoCode": {
+				"lat": 50.8461126,
+				"lng": -1.1309591
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "26-30 London Road",
+			"address": "Cowplain\nWaterlooville\nHampshire\nPO8 8DL",
+			"post_code": "PO8 8DL",
+			"nhs_choices_user_rating": "5.0 out of 5 - 9 ratings",
+			"registered_patients": "8802.00",
+			"geoCode": {
+				"lat": 50.8937859,
+				"lng": -1.018291
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Queenswood Surgery",
+			"address": "223 London Road\nWaterlooville\nHampshire\nPO8 8DA",
+			"post_code": "PO8 8DA",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "4468.00",
+			"geoCode": {
+				"lat": 50.8896876,
+				"lng": -1.0239362
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Westlands Medical Centre",
+			"address": "20b Westlands Grove\nPortchester\nHampshire\nPO16 9AD",
+			"post_code": "PO16 9AD",
+			"nhs_choices_user_rating": "3.0 out of 5 - 23 ratings",
+			"registered_patients": "10233.00",
+			"geoCode": {
+				"lat": 50.8440568,
+				"lng": -1.1333667
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Stubbington Medical Practice",
+			"address": "Park Lane\nStubbington\nHampshire\nHampshire\nPO14 2JP",
+			"post_code": "PO14 2JP",
+			"nhs_choices_user_rating": "4.0 out of 5 - 22 ratings",
+			"registered_patients": "13182.00",
+			"geoCode": {
+				"lat": 50.8250347,
+				"lng": -1.2153218
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Forest End Surgery",
+			"address": "Forest End\nWaterlooville\nHampshire\nPO7 7AH",
+			"post_code": "PO7 7AH",
+			"nhs_choices_user_rating": "2.0 out of 5 - 3 ratings",
+			"registered_patients": "20430.00",
+			"geoCode": {
+				"lat": 50.878218,
+				"lng": -1.0355872
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "194 Allaway Avenue",
+			"address": "Paulsgrove\nPortsmouth\nHampshire\nPO6 4HJ",
+			"post_code": "PO6 4HJ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 3 ratings",
+			"registered_patients": "33361.00",
+			"geoCode": {
+				"lat": 50.84896939999999,
+				"lng": -1.0936988
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Shakespeare House Health Centre",
+			"address": "Shakespeare Road\nBasingstoke\nHampshire\nRG24 9DS",
+			"post_code": "RG24 9DS",
+			"nhs_choices_user_rating": "2.0 out of 5 - 10 ratings",
+			"registered_patients": "6505.00",
+			"geoCode": {
+				"lat": 51.2802005,
+				"lng": -1.0832235
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Shakespeare House Health Ctre",
+			"address": "Shakespeare Road\nPopley Basingstoke\nHampshire\nRG24 9DT",
+			"post_code": "RG24 9DT",
+			"nhs_choices_user_rating": "3.0 out of 5 - 7 ratings",
+			"registered_patients": "6899.00",
+			"geoCode": {
+				"lat": 51.2804696,
+				"lng": -1.0840701
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Riverside Kelsey Surgery",
+			"address": "75 Station Road\nLiss\nHampshire\nGU33 7AD",
+			"post_code": "GU33 7AD",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "4076.00",
+			"geoCode": {
+				"lat": 51.0441832,
+				"lng": -0.894065
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bridgemary Medical Centre",
+			"address": "2 Gregson Avenue\nBridgemary\nGosport\nHampshire\nPO13 0HR",
+			"post_code": "PO13 0HR",
+			"nhs_choices_user_rating": "4.0 out of 5 - 7 ratings",
+			"registered_patients": "8556.00",
+			"geoCode": {
+				"lat": 50.8279741,
+				"lng": -1.1747213
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Aintree Drive",
+			"address": "Waterlooville\nPO7 8NE",
+			"post_code": "PO7 8NE",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "20430.00",
+			"geoCode": {
+				"lat": 50.8881524,
+				"lng": -1.0092821
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hillbrow Road",
+			"address": "Hill Brow Road\nLiss\nLiss\nGU33 7LE",
+			"post_code": "GU33 7LE",
+			"nhs_choices_user_rating": "3.5 out of 5 - 3 ratings",
+			"registered_patients": "10461.00",
+			"geoCode": {
+				"lat": 51.0411598,
+				"lng": -0.8912810999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Blackfield Health Centre",
+			"address": "Hampton Lane\nBlackfield\nSouthampton\nHampshire\nSO45 1XA",
+			"post_code": "SO45 1XA",
+			"nhs_choices_user_rating": "3.0 out of 5 - 5 ratings",
+			"registered_patients": "24587.00",
+			"geoCode": {
+				"lat": 50.81928360000001,
+				"lng": -1.373456
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Church Grange Lychpit Surgery",
+			"address": "Great Binfields Road\nLychpit\nBasingstoke\nRG24 8TF",
+			"post_code": "RG24 8TF",
+			"nhs_choices_user_rating": "2.0 out of 5 - 3 ratings",
+			"registered_patients": "24027.00",
+			"geoCode": {
+				"lat": 51.277415,
+				"lng": -1.0575762
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Old Basing Health Centre",
+			"address": "Manor Lane\nOld Basing\nHampshire\nRG24 7AE",
+			"post_code": "RG24 7AE",
+			"nhs_choices_user_rating": "3.0 out of 5 - 14 ratings",
+			"registered_patients": "10836.00",
+			"geoCode": {
+				"lat": 51.27227980000001,
+				"lng": -1.0442127
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Stakes Lodge Surgery",
+			"address": "3a Lavender Road\nWaterlooville\nHampshire\nPO7 8NS",
+			"post_code": "PO7 8NS",
+			"nhs_choices_user_rating": "2.5 out of 5 - 9 ratings",
+			"registered_patients": "7543.00",
+			"geoCode": {
+				"lat": 50.87430209999999,
+				"lng": -1.019752
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Kingsclere Health Centre",
+			"address": "North Street\nKingsclere\nNewbury\nBerkshire\nRG20 5QX",
+			"post_code": "RG20 5QX",
+			"nhs_choices_user_rating": "2.0 out of 5 - 6 ratings",
+			"registered_patients": "5514.00",
+			"geoCode": {
+				"lat": 51.3259064,
+				"lng": -1.2474544
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Northern Road Surgery",
+			"address": "56 Northern Road\nCosham Portsmouth\nHampshire\nPO6 3DS",
+			"post_code": "PO6 3DS",
+			"nhs_choices_user_rating": "3.5 out of 5 - 3 ratings",
+			"registered_patients": "4021.00",
+			"geoCode": {
+				"lat": 50.8457987,
+				"lng": -1.0685014
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Portsdown Group Practice",
+			"address": "The Surgery Crookhorn Lane\nPurbrook Waterlooville\nHampshire\nPO7 5XP",
+			"post_code": "PO7 5XP",
+			"nhs_choices_user_rating": "3.0 out of 5 - 6 ratings",
+			"registered_patients": "33361.00",
+			"geoCode": {
+				"lat": 50.862649,
+				"lng": -1.0274562
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Cosham Health Centre",
+			"address": "Vectis Way\nCosham\nHampshire\nPO6 3AW",
+			"post_code": "PO6 3AW",
+			"nhs_choices_user_rating": "2.5 out of 5 - 22 ratings",
+			"registered_patients": "8951.00",
+			"geoCode": {
+				"lat": 50.843559,
+				"lng": -1.068814
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "1 Wootton Street\nCosham\nHampshire\nPO6 3AP",
+			"post_code": "PO6 3AP",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "4411.00",
+			"geoCode": {
+				"lat": 50.8439347,
+				"lng": -1.0681976
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Wickham Inst",
+			"address": "Binstead\nHampshire\nGU34 4NX",
+			"post_code": "GU34 4NX",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "5695.00",
+			"geoCode": {
+				"lat": 51.1630657,
+				"lng": -0.8981469999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Portsdown Group Practice",
+			"address": "Cosham Park House Surgery\nCosham Park Avenue Cosham\nPortsmouth Hampshire\nPO6 3BG",
+			"post_code": "PO6 3BG",
+			"nhs_choices_user_rating": "3.0 out of 5 - 17 ratings",
+			"registered_patients": "33361.00",
+			"geoCode": {
+				"lat": 50.843219,
+				"lng": -1.0664925
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Rowner Health Centre",
+			"address": "143 Rowner Lane\nRowner Gosport\nHampshire\nPO13 9SP",
+			"post_code": "PO13 9SP",
+			"nhs_choices_user_rating": "2.5 out of 5 - 23 ratings",
+			"registered_patients": "6845.00",
+			"geoCode": {
+				"lat": 50.8131887,
+				"lng": -1.1742364
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Chineham Medical Centre",
+			"address": "Reading Road\nChineham Basingstoke\nHampshire\nRG24 8ND",
+			"post_code": "RG24 8ND",
+			"nhs_choices_user_rating": "3.0 out of 5 - 19 ratings",
+			"registered_patients": "11420.00",
+			"geoCode": {
+				"lat": 51.2891777,
+				"lng": -1.0590081
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Lyndhurst Surgery",
+			"address": "2 Church Lane\nLyndhurst\nHampshire\nSO43 7EW",
+			"post_code": "SO43 7EW",
+			"nhs_choices_user_rating": "3.0 out of 5 - 4 ratings",
+			"registered_patients": "5225.00",
+			"geoCode": {
+				"lat": 50.8722804,
+				"lng": -1.576607
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Brune Medical Centre",
+			"address": "10 Rowner Road\nRowner Gosport\nHampshire\nPO13 0EW",
+			"post_code": "PO13 0EW",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "8696.00",
+			"geoCode": {
+				"lat": 50.8125553,
+				"lng": -1.1601035
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Drayton Surgery",
+			"address": "280 Havant Road\nDrayton\nPortsmouth\nHampshire\nPO6 1PA",
+			"post_code": "PO6 1PA",
+			"nhs_choices_user_rating": "2.5 out of 5 - 11 ratings",
+			"registered_patients": "13368.00",
+			"geoCode": {
+				"lat": 50.8469153,
+				"lng": -1.0376281
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Lee-on-Solent Health Centre",
+			"address": "Manor Way\nLee-on-Solent\nHampshire\nPO13 9JG",
+			"post_code": "PO13 9JG",
+			"nhs_choices_user_rating": "4.0 out of 5 - 4 ratings",
+			"registered_patients": "6393.00",
+			"geoCode": {
+				"lat": 50.8025905,
+				"lng": -1.2014487
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Manor Way Surgery Suite b",
+			"address": "Manor Way\nLee-on-Solent\nHampshire\nPO13 9JG",
+			"post_code": "PO13 9JG",
+			"nhs_choices_user_rating": "2.0 out of 5 - 4 ratings",
+			"registered_patients": "4843.00",
+			"geoCode": {
+				"lat": 50.8025905,
+				"lng": -1.2014487
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Middle Park Surgery",
+			"address": "15 Middle Park Way\nLeigh Park\nHavant Hampshire\nPO9 4AB",
+			"post_code": "PO9 4AB",
+			"nhs_choices_user_rating": "2.5 out of 5 - 4 ratings",
+			"registered_patients": "2973.00",
+			"geoCode": {
+				"lat": 50.8653211,
+				"lng": -0.9997355
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Rowlands Castle Surgery",
+			"address": "12 The Green\nRowlands Castle\nHampshire\nHampshire\nPO9 6BN",
+			"post_code": "PO9 6BN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "3932.00",
+			"geoCode": {
+				"lat": 50.8913103,
+				"lng": -0.9588121999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Forest Surgery",
+			"address": "60 Forest Road\nBordon\nHampshire\nGU35 0BP",
+			"post_code": "GU35 0BP",
+			"nhs_choices_user_rating": "3.0 out of 5 - 12 ratings",
+			"registered_patients": "12407.00",
+			"geoCode": {
+				"lat": 51.10630829999999,
+				"lng": -0.8610391
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Brockhurst Medical Centre",
+			"address": "139-141 Brockhurst Road\nGosport\nHampshire\nPO12 3AX",
+			"post_code": "PO12 3AX",
+			"nhs_choices_user_rating": "3.0 out of 5 - 8 ratings",
+			"registered_patients": "4397.00",
+			"geoCode": {
+				"lat": 50.80800139999999,
+				"lng": -1.1533869
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Woolmer Surgery",
+			"address": "Forest Road\nBordon\nHampshire\nGU35 0BJ",
+			"post_code": "GU35 0BJ",
+			"nhs_choices_user_rating": "1.0 out of 5 - 2 ratings",
+			"registered_patients": "4076.00",
+			"geoCode": {
+				"lat": 51.1097787,
+				"lng": -0.8599091
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Pinehill Surgery",
+			"address": "Pinehill Road\nBordon\nHampshire\nGU35 0BS",
+			"post_code": "GU35 0BS",
+			"nhs_choices_user_rating": "2.0 out of 5 - 9 ratings",
+			"registered_patients": "3627.00",
+			"geoCode": {
+				"lat": 51.108375,
+				"lng": -0.858217
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Park Lane Medical Centre",
+			"address": "82 Park Lane\nBedhampton\nHavant\nHampshire\nPO9 3HN",
+			"post_code": "PO9 3HN",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "4994.00",
+			"geoCode": {
+				"lat": 50.8633173,
+				"lng": -0.9998836
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Castle Practice",
+			"address": "Central Street\nLudgershall\nHampshire\nSP11 9RA",
+			"post_code": "SP11 9RA",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "11097.00",
+			"geoCode": {
+				"lat": 51.2559507,
+				"lng": -1.6173593
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Forton Medical Centre",
+			"address": "Whites Place\nGosport\nHampshire\nPO12 3JP",
+			"post_code": "PO12 3JP",
+			"nhs_choices_user_rating": "1.5 out of 5 - 11 ratings",
+			"registered_patients": "9720.00",
+			"geoCode": {
+				"lat": 50.80076769999999,
+				"lng": -1.1419834
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Bourne Valley Practice",
+			"address": "10-12 High Street\nLudgershall\nHampshire\nSP11 9PZ",
+			"post_code": "SP11 9PZ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "2887.00",
+			"geoCode": {
+				"lat": 51.2561142,
+				"lng": -1.6219295
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "27-29 Derby Road",
+			"address": "North End\nPortsmouth\nHants\nPO2 8HW",
+			"post_code": "PO2 8HW",
+			"nhs_choices_user_rating": "3.0 out of 5 - 9 ratings",
+			"registered_patients": "11262.00",
+			"geoCode": {
+				"lat": 50.816947,
+				"lng": -1.082428
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "358 Copnor Road",
+			"address": "Copnor\nPortsmouth\nHampshire\nPO3 5EL",
+			"post_code": "PO3 5EL",
+			"nhs_choices_user_rating": "1.0 out of 5 - 3 ratings",
+			"registered_patients": "11262.00",
+			"geoCode": {
+				"lat": 50.816111,
+				"lng": -1.064712
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "81 Stubbington Avenue",
+			"address": "North End\nPortsmouth\nHampshire\nPO2 0JD",
+			"post_code": "PO2 0JD",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "11473.00",
+			"geoCode": {
+				"lat": 50.816947,
+				"lng": -1.082428
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bentley Village Surgery",
+			"address": "Hole Lane\nBentley Farnham\nSurrey\nGU10 5LP",
+			"post_code": "GU10 5LP",
+			"nhs_choices_user_rating": "3.0 out of 5 - 5 ratings",
+			"registered_patients": "3445.00",
+			"geoCode": {
+				"lat": 51.19996219999999,
+				"lng": -0.8838597
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "92 Kingston Crescent",
+			"address": "North End\nPortsmouth\nHampshire\nPO2 8AL",
+			"post_code": "PO2 8AL",
+			"nhs_choices_user_rating": "2.5 out of 5 - 36 ratings",
+			"registered_patients": "33361.00",
+			"geoCode": {
+				"lat": 50.816947,
+				"lng": -1.082428
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Bosmere Medical Centre",
+			"address": "Solent Road\nHavant\nHampshire\nPO9 1DQ",
+			"post_code": "PO9 1DQ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 32 ratings",
+			"registered_patients": "17847.00",
+			"geoCode": {
+				"lat": 50.8498463,
+				"lng": -0.9905917999999998
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "32 Winterslow Road",
+			"address": "Porton\nWiltshire\nSP4 0LR",
+			"post_code": "SP4 0LR",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "7962.00",
+			"geoCode": {
+				"lat": 51.12905869999999,
+				"lng": -1.7333897
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Gosport Medical Centre",
+			"address": "Bury Road\nGosport\nHampshire\nPO12 3AQ",
+			"post_code": "PO12 3AQ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 6 ratings",
+			"registered_patients": "8947.00",
+			"geoCode": {
+				"lat": 50.7923554,
+				"lng": -1.1437895
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Odiham Health Centre",
+			"address": "Deer Park View\nOdiham\nHampshire\nRG29 1JY",
+			"post_code": "RG29 1JY",
+			"nhs_choices_user_rating": "3.5 out of 5 - 18 ratings",
+			"registered_patients": "10836.00",
+			"geoCode": {
+				"lat": 51.2544822,
+				"lng": -0.9411657
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bury Road Surgery",
+			"address": "Gosport War Memorial Hospital\nBury Road\nGosport\nHampshire\nPO12 3PW",
+			"post_code": "PO12 3PW",
+			"nhs_choices_user_rating": "4.5 out of 5 - 6 ratings",
+			"registered_patients": "4161.00",
+			"geoCode": {
+				"lat": 50.79306880000001,
+				"lng": -1.1486992
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "8 Queens Road",
+			"address": "Buckland\nPortsmouth\nHampshire\nHampshire\nPO2 7NX",
+			"post_code": "PO2 7NX",
+			"nhs_choices_user_rating": "2.5 out of 5 - 5 ratings",
+			"registered_patients": "5519.00",
+			"geoCode": {
+				"lat": 50.8081116,
+				"lng": -1.0831369
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Castle Practice",
+			"address": "Drummer Lane\nTidworth\nHampshire\nSP9 7FH",
+			"post_code": "SP9 7FH",
+			"nhs_choices_user_rating": "2.0 out of 5 - 2 ratings",
+			"registered_patients": "11097.00",
+			"geoCode": {
+				"lat": 51.2349733,
+				"lng": -1.6605092
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Waterside Medical Centre",
+			"address": "Mumby Road\nGosport\nHampshire\nPO12 1BA",
+			"post_code": "PO12 1BA",
+			"nhs_choices_user_rating": "3.0 out of 5 - 5 ratings",
+			"registered_patients": "11863.00",
+			"geoCode": {
+				"lat": 50.7976945,
+				"lng": -1.1234051
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bourne Valley Practice",
+			"address": "Beacon House, Station Road,\nTidworth\nHampshire\nSP9 7NN",
+			"post_code": "SP9 7NN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "2887.00",
+			"geoCode": {
+				"lat": 51.2348198,
+				"lng": -1.662653
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Stoke Road Medical Centre",
+			"address": "66-68 Stoke Road\nGosport\nHampshire\nPO12 1PA",
+			"post_code": "PO12 1PA",
+			"nhs_choices_user_rating": "2.0 out of 5 - 4 ratings",
+			"registered_patients": "8480.00",
+			"geoCode": {
+				"lat": 50.7927398,
+				"lng": -1.1360837
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "111 Copnor Road",
+			"address": "Copnor\nPortsmouth\nHampshire\nPO3 5AF",
+			"post_code": "PO3 5AF",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "7893.00",
+			"geoCode": {
+				"lat": 50.816111,
+				"lng": -1.064712
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Suite C Havant Health Centre",
+			"address": "Civic Centre Road\nHavant\nHampshire\nPO9 2AZ",
+			"post_code": "PO9 2AZ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "8060.00",
+			"geoCode": {
+				"lat": 50.8561185,
+				"lng": -0.9844010999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Curlew Practice",
+			"address": "Suite E Havant Health Centre\nCivic Centre Road\nHavant Hampshire\nPO9 2AG",
+			"post_code": "PO9 2AG",
+			"nhs_choices_user_rating": "3.0 out of 5 - 2 ratings",
+			"registered_patients": "3942.00",
+			"geoCode": {
+				"lat": 50.8561185,
+				"lng": -0.9844010999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Suite B Havant Health Centre",
+			"address": "Civic Centre Road\nHavant\nHampshire\nPO9 2AQ",
+			"post_code": "PO9 2AQ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 13 ratings",
+			"registered_patients": "11647.00",
+			"geoCode": {
+				"lat": 50.8561185,
+				"lng": -0.9844010999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Trade Street\nWoolton Hill\nNr Newbury Berks\nRG20 9UL",
+			"post_code": "RG20 9UL",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "8135.00",
+			"geoCode": {
+				"lat": 51.3518537,
+				"lng": -1.3884857
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "2 Hanway Road",
+			"address": "2 Hanway Road\nPortsmouth\nPortsmouth\nPO1 4ND",
+			"post_code": "PO1 4ND",
+			"nhs_choices_user_rating": "1.5 out of 5 - 5 ratings",
+			"registered_patients": "11473.00",
+			"geoCode": {
+				"lat": 50.8066882,
+				"lng": -1.0773868
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "John Pounds Surgery",
+			"address": "John Pounds Medical Centre\n3 Aylward Street\nPortsmouth Hampshire\nPO1 3DU",
+			"post_code": "PO1 3DU",
+			"nhs_choices_user_rating": "2.5 out of 5 - 11 ratings",
+			"registered_patients": "3499.00",
+			"geoCode": {},
+			"geoStatus": "ZERO_RESULTS"
+		},
+		{
+			"name": "Lake Road Health Centre",
+			"address": "Nutfield Place\nPortsmouth\nHampshire\nPO1 4JT",
+			"post_code": "PO1 4JT",
+			"nhs_choices_user_rating": "3.0 out of 5 - 13 ratings",
+			"registered_patients": "14330.00",
+			"geoCode": {
+				"lat": 50.8046403,
+				"lng": -1.0779704
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Badgerswood Surgery",
+			"address": "Mill Lane\nHeadley Bordon\nHampshire\nGU35 8LH",
+			"post_code": "GU35 8LH",
+			"nhs_choices_user_rating": "4.5 out of 5 - 17 ratings",
+			"registered_patients": "12407.00",
+			"geoCode": {
+				"lat": 51.1192481,
+				"lng": -0.8284777
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Morland Surgery",
+			"address": "40 New Road\nTadley\nHampshire\nRG26 3AN",
+			"post_code": "RG26 3AN",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "19638.00",
+			"geoCode": {
+				"lat": 51.3479597,
+				"lng": -1.1412337
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Moot Lane\nDownton\nSalisbury Wiltshire\nSP5 3JP",
+			"post_code": "SP5 3JP",
+			"nhs_choices_user_rating": "3.5 out of 5 - 17 ratings",
+			"registered_patients": "6760.00",
+			"geoCode": {
+				"lat": 50.991795,
+				"lng": -1.7419375
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Baffins Surgery",
+			"address": "St Cuthberts Church\nHayling Avenue\nPortsmouth Hampshire\nPO3 6BH",
+			"post_code": "PO3 6BH",
+			"nhs_choices_user_rating": "2.5 out of 5 - 9 ratings",
+			"registered_patients": "8694.00",
+			"geoCode": {
+				"lat": 50.8065972,
+				"lng": -1.0627556
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "University Surgery",
+			"address": "The Nuffield Centre\nSt Michael's Road\nPortsmouth Hampshire\nPO1 2BH",
+			"post_code": "PO1 2BH",
+			"nhs_choices_user_rating": "3.5 out of 5 - 5 ratings",
+			"registered_patients": "13548.00",
+			"geoCode": {
+				"lat": 50.7952727,
+				"lng": -1.0964929
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Guildhall Walk Healthcare Centre",
+			"address": "27 Guildhall Walk\nPortsmouth\nHampshire\nPO1 2RY",
+			"post_code": "PO1 2RY",
+			"nhs_choices_user_rating": "4.0 out of 5 - 13 ratings",
+			"registered_patients": "5571.00",
+			"geoCode": {
+				"lat": 50.7962503,
+				"lng": -1.0926856
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Clift Surgery",
+			"address": "Minchens Lane\nBramley Basingstoke\nHampshire\nRG26 5BH",
+			"post_code": "RG26 5BH",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "6196.00",
+			"geoCode": {
+				"lat": 51.3311436,
+				"lng": -1.0662581
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Reading Road\nHook\nHampshire\nRG27 9ED",
+			"post_code": "RG27 9ED",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "16687.00",
+			"geoCode": {
+				"lat": 51.2869205,
+				"lng": -0.9623598
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Southsea Medical Centre",
+			"address": "Carlilse Road\nSouthsea\nHampshire\nPO5 1AT",
+			"post_code": "PO5 1AT",
+			"nhs_choices_user_rating": "3.5 out of 5 - 3 ratings",
+			"registered_patients": "7909.00",
+			"geoCode": {
+				"lat": 50.7962184,
+				"lng": -1.0804451
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Somers Town Health Centre",
+			"address": "Blackfriars Close\nSouthsea\nHampshire\nPO5 4NJ",
+			"post_code": "PO5 4NJ",
+			"nhs_choices_user_rating": "3.0 out of 5 - 2 ratings",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 50.7954847,
+				"lng": -1.0836794
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Blackfriars Close",
+			"address": "Southsea\nPO5 4NJ",
+			"post_code": "PO5 4NJ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "33361.00",
+			"geoCode": {
+				"lat": 50.7953073,
+				"lng": -1.0836372
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Holmwood Health Centre",
+			"address": "Franklin Avenue\nTadley\nHampshire\nRG26 4ER",
+			"post_code": "RG26 4ER",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "19638.00",
+			"geoCode": {
+				"lat": 51.35674110000001,
+				"lng": -1.145338
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Sunnyside Medical Centre",
+			"address": "8f The Pompey Centre\nFratton Way\nSouthsea Hampshire\nPO4 8TA",
+			"post_code": "PO4 8TA",
+			"nhs_choices_user_rating": "3.0 out of 5 - 5 ratings",
+			"registered_patients": "12682.00",
+			"geoCode": {
+				"lat": 50.7954664,
+				"lng": -1.0674021
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Liphook Village Surgery",
+			"address": "The Square\nLiphook\nHampshire\nGU30 7AQ",
+			"post_code": "GU30 7AQ",
+			"nhs_choices_user_rating": "3.0 out of 5 - 6 ratings",
+			"registered_patients": "5569.00",
+			"geoCode": {
+				"lat": 51.0767852,
+				"lng": -0.8031704000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Liphook & Liss Surgery",
+			"address": "Station Road\nLiphook\nHampshire\nGU30 7DR",
+			"post_code": "GU30 7DR",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "10461.00",
+			"geoCode": {
+				"lat": 51.0713776,
+				"lng": -0.8016945
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Heyward Road Surgery",
+			"address": "3 Heyward Road\nSouthsea\nHampshire\nPO4 0DY",
+			"post_code": "PO4 0DY",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "3866.00",
+			"geoCode": {
+				"lat": 50.7913309,
+				"lng": -1.0754578
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Campbell Surgery",
+			"address": "2a Campbell Road\nSouthsea\nHampshire\nPO5 1RN",
+			"post_code": "PO5 1RN",
+			"nhs_choices_user_rating": "4.0 out of 5 - 3 ratings",
+			"registered_patients": "2334.00",
+			"geoCode": {
+				"lat": 50.7898461,
+				"lng": -1.0798851
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Ramillies",
+			"address": "12 Victoria Road South\nSouthsea\nHampshire\nPO5 2DB",
+			"post_code": "PO5 2DB",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "5776.00",
+			"geoCode": {
+				"lat": 50.7883672,
+				"lng": -1.0826716
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "25 Osborne Road",
+			"address": "Southsea\nHampshire\nPO5 3ND",
+			"post_code": "PO5 3ND",
+			"nhs_choices_user_rating": "2.5 out of 5 - 10 ratings",
+			"registered_patients": "11047.00",
+			"geoCode": {
+				"lat": 50.78535840000001,
+				"lng": -1.0924708
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "131 Goldsmith Avenue\nSouthsea\nHampshire\nPO4 8QZ",
+			"post_code": "PO4 8QZ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "4779.00",
+			"geoCode": {
+				"lat": 50.7939695,
+				"lng": -1.0635158
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "East Cowes Medical Centre",
+			"address": "Church Path\nEast Cowes\nIsle of Wight\nPO32 6RP",
+			"post_code": "PO32 6RP",
+			"nhs_choices_user_rating": "2.0 out of 5 - 6 ratings",
+			"registered_patients": "8283.00",
+			"geoCode": {
+				"lat": 50.7580854,
+				"lng": -1.2867057
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Emsworth Surgery",
+			"address": "6 North Street\nEmsworth\nHampshire\nPO10 7DD",
+			"post_code": "PO10 7DD",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "12886.00",
+			"geoCode": {
+				"lat": 50.84813459999999,
+				"lng": -0.9376846999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Highwood Road\nBrockenhurst\nHampshire\nSO42 7RY",
+			"post_code": "SO42 7RY",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "7541.00",
+			"geoCode": {
+				"lat": 50.8152172,
+				"lng": -1.5775549
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "262 Devonshire Avenue",
+			"address": "Southsea\nHampshire\nPO4 9EH",
+			"post_code": "PO4 9EH",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "5648.00",
+			"geoCode": {
+				"lat": 50.78986500000001,
+				"lng": -1.057469
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "34-36 Waverley Road",
+			"address": "Southsea\nHampshire\nPO5 2PW",
+			"post_code": "PO5 2PW",
+			"nhs_choices_user_rating": "4.0 out of 5 - 8 ratings",
+			"registered_patients": "4925.00",
+			"geoCode": {
+				"lat": 50.783203,
+				"lng": -1.0779302
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Salisbury Road\nSouthsea\nHampshire\nPO4 9QX",
+			"post_code": "PO4 9QX",
+			"nhs_choices_user_rating": "3.0 out of 5 - 6 ratings",
+			"registered_patients": "5387.00",
+			"geoCode": {
+				"lat": 50.7839448,
+				"lng": -1.0696722
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Eastney Health Centre",
+			"address": "Highland Road\nSouthsea\nHampshire\nPO4 9HU",
+			"post_code": "PO4 9HU",
+			"nhs_choices_user_rating": "4.0 out of 5 - 5 ratings",
+			"registered_patients": "4809.00",
+			"geoCode": {
+				"lat": 50.7865961,
+				"lng": -1.0596307
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Eastney Health Centre",
+			"address": "Highland Road\nSouthsea\nHampshire\nPO4 9HU",
+			"post_code": "PO4 9HU",
+			"nhs_choices_user_rating": "1.0 out of 5 - 1 rating",
+			"registered_patients": "11047.00",
+			"geoCode": {
+				"lat": 50.7865961,
+				"lng": -1.0596307
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Cowes Medical Centre",
+			"address": "200 Newport Road\nCowes\nIsle Of Wight\nPO31 7ER",
+			"post_code": "PO31 7ER",
+			"nhs_choices_user_rating": "2.5 out of 5 - 8 ratings",
+			"registered_patients": "15115.00",
+			"geoCode": {
+				"lat": 50.75134740000001,
+				"lng": -1.3014289
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "82 St Ann Street",
+			"address": "Salisbury\nWiltshire\nSP1 2PT",
+			"post_code": "SP1 2PT",
+			"nhs_choices_user_rating": "5.0 out of 5 - 12 ratings",
+			"registered_patients": "7962.00",
+			"geoCode": {
+				"lat": 51.0663356,
+				"lng": -1.7891362
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Monks Lane",
+			"address": "Newbury\nBerks\nRG14 7DF",
+			"post_code": "RG14 7DF",
+			"nhs_choices_user_rating": "2.5 out of 5 - 17 ratings",
+			"registered_patients": "14340.00",
+			"geoCode": {
+				"lat": 51.3822289,
+				"lng": -1.3357911
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Three Swans Surgery",
+			"address": "Rollestone Street\nSalisbury\nWiltshire\nSP1 1DX",
+			"post_code": "SP1 1DX",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "8677.00",
+			"geoCode": {
+				"lat": 51.0698637,
+				"lng": -1.7930694
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "72 Endless Street",
+			"address": "Salisbury\nWiltshire\nSP1 3UH",
+			"post_code": "SP1 3UH",
+			"nhs_choices_user_rating": "4.0 out of 5 - 3 ratings",
+			"registered_patients": "8755.00",
+			"geoCode": {
+				"lat": 51.0719295,
+				"lng": -1.7946344
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Crondall New Surgery",
+			"address": "Redlands Lane\nCrondall Farnham\nSurrey\nGU10 5RF",
+			"post_code": "GU10 5RF",
+			"nhs_choices_user_rating": "3.0 out of 5 - 6 ratings",
+			"registered_patients": "4421.00",
+			"geoCode": {
+				"lat": 51.2375459,
+				"lng": -0.8582837999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "Millstream House\nAvon Approach\nSalisbury\nWiltshire\nSP1 3SL",
+			"post_code": "SP1 3SL",
+			"nhs_choices_user_rating": "3.5 out of 5 - 23 ratings",
+			"registered_patients": "5800.00",
+			"geoCode": {
+				"lat": 51.0719883,
+				"lng": -1.7974459
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Salisbury Walk In Health Centre",
+			"address": "Avon Approach\nSalisbury\nWiltshire\nSP1 3SL",
+			"post_code": "SP1 3SL",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "303.00",
+			"geoCode": {
+				"lat": 51.0719883,
+				"lng": -1.7974459
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Harcourt Medical Centre",
+			"address": "Crane Bridge Road\nSalisbury\nWiltshire\nSP2 7TD",
+			"post_code": "SP2 7TD",
+			"nhs_choices_user_rating": "3.5 out of 5 - 13 ratings",
+			"registered_patients": "11840.00",
+			"geoCode": {
+				"lat": 51.0688191,
+				"lng": -1.7986948
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Holly Tree Surgery",
+			"address": "42 Boundstone Road\nWrecclesham\nFarnham\nSurrey\nGU10 4TG",
+			"post_code": "GU10 4TG",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "5695.00",
+			"geoCode": {
+				"lat": 51.1881414,
+				"lng": -0.8096939999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St Melor House Surgery",
+			"address": "St Melor House\nEdwards Road\nAmesbury Wiltshire\nWiltshire\nSP4 7LT",
+			"post_code": "SP4 7LT",
+			"nhs_choices_user_rating": "4.5 out of 5 - 2 ratings",
+			"registered_patients": "5059.00",
+			"geoCode": {
+				"lat": 51.1710987,
+				"lng": -1.7775599
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Barcroft Medical Centre",
+			"address": "The Centre\nAmesbury Salisbury\nWiltshire\nSP4 7DL",
+			"post_code": "SP4 7DL",
+			"nhs_choices_user_rating": "2.5 out of 5 - 4 ratings",
+			"registered_patients": "10493.00",
+			"geoCode": {
+				"lat": 51.17284129999999,
+				"lng": -1.7787689
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Fisherton House",
+			"address": "Fountain Way\nSalisbury\nWiltshire\nSP2 7FD",
+			"post_code": "SP2 7FD",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "17043.00",
+			"geoCode": {
+				"lat": 51.0716226,
+				"lng": -1.8099076
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Southbourne Surgery",
+			"address": "337 Main Road\nEmsworth\nWest Sussex\nPO10 8JH",
+			"post_code": "PO10 8JH",
+			"nhs_choices_user_rating": "4.5 out of 5 - 9 ratings",
+			"registered_patients": "9242.00",
+			"geoCode": {
+				"lat": 50.8448883,
+				"lng": -0.9037818999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Eastfield House Surgery",
+			"address": "6 St Johns Road\nNewbury\nBerkshire\nRG14 7LW",
+			"post_code": "RG14 7LW",
+			"nhs_choices_user_rating": "4.0 out of 5 - 6 ratings",
+			"registered_patients": "12094.00",
+			"geoCode": {
+				"lat": 51.3953705,
+				"lng": -1.3230587
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Burdwood Surgery",
+			"address": "Wheelers Green Way\nThatcham\nBerkshire\nRG19 4YF",
+			"post_code": "RG19 4YF",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "10002.00",
+			"geoCode": {
+				"lat": 51.3964124,
+				"lng": -1.2442712
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "84 Bulford Road",
+			"address": "Durrington\nSalisbury\nWiltshire\nSP4 8DH",
+			"post_code": "SP4 8DH",
+			"nhs_choices_user_rating": "4.0 out of 5 - 1 rating",
+			"registered_patients": "3460.00",
+			"geoCode": {
+				"lat": 51.1973786,
+				"lng": -1.7709933
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Avon Valley Practice",
+			"address": "77 Bulford Road\nDurrington\nSalisbury Wiltshire\nSP4 8EU",
+			"post_code": "SP4 8EU",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "6185.00",
+			"geoCode": {
+				"lat": 51.1980434,
+				"lng": -1.7717526
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Northcroft Lane",
+			"address": "Newbury\nBerks\nRG14 1BU",
+			"post_code": "RG14 1BU",
+			"nhs_choices_user_rating": "3.5 out of 5 - 10 ratings",
+			"registered_patients": "8831.00",
+			"geoCode": {
+				"lat": 51.40212100000001,
+				"lng": -1.325167
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Thatcham Health Centre",
+			"address": "3 Bath Road\nThatcham\nBerkshire\nRG18 3HD",
+			"post_code": "RG18 3HD",
+			"nhs_choices_user_rating": "2.5 out of 5 - 21 ratings",
+			"registered_patients": "18451.00",
+			"geoCode": {
+				"lat": 51.4036434,
+				"lng": -1.260952
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "St Mary's Road\nNewbury\nBerkshire\nRG14 1EQ",
+			"post_code": "RG14 1EQ",
+			"nhs_choices_user_rating": "1.5 out of 5 - 8 ratings",
+			"registered_patients": "11817.00",
+			"geoCode": {
+				"lat": 51.4060454,
+				"lng": -1.3196828
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Mortimer Surgery",
+			"address": "72 Victoria Road\nMortimer Common\nReading\nBerkshire\nRG7 3SQ",
+			"post_code": "RG7 3SQ",
+			"nhs_choices_user_rating": "2.5 out of 5 - 10 ratings",
+			"registered_patients": "11749.00",
+			"geoCode": {
+				"lat": 51.3778115,
+				"lng": -1.068746
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hayling Island Health Centre",
+			"address": "Elm Grove\nMengham Hayling Island\nHampshire\nPO11 9AP",
+			"post_code": "PO11 9AP",
+			"nhs_choices_user_rating": "4.0 out of 5 - 1 rating",
+			"registered_patients": "8477.00",
+			"geoCode": {
+				"lat": 50.7902024,
+				"lng": -0.9772056000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hayling Island Health Centre",
+			"address": "Elm Grove\nMengham Hayling Island\nHampshire\nPO11 9AP",
+			"post_code": "PO11 9AP",
+			"nhs_choices_user_rating": "3.5 out of 5 - 10 ratings",
+			"registered_patients": "9089.00",
+			"geoCode": {
+				"lat": 50.7902024,
+				"lng": -0.9772056000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Downing Street Group Practice",
+			"address": "4 Downing Street\nFarnham\nSurrey\nSurrey\nGU9 7PA",
+			"post_code": "GU9 7PA",
+			"nhs_choices_user_rating": "3.5 out of 5 - 14 ratings",
+			"registered_patients": "12627.00",
+			"geoCode": {
+				"lat": 51.213458,
+				"lng": -0.7993589
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "1 Chapter Terrace\nHartley Wintney\nHook Hampshire\nRG27 8QJ",
+			"post_code": "RG27 8QJ",
+			"nhs_choices_user_rating": "3.0 out of 5 - 7 ratings",
+			"registered_patients": "16687.00",
+			"geoCode": {
+				"lat": 51.3068,
+				"lng": -0.9018
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Bemerton Heath Surgery",
+			"address": "Pembroke Road\nSalisbury\nWiltshire\nSP2 9DJ",
+			"post_code": "SP2 9DJ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 51.0800177,
+				"lng": -1.8294628
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Grayshott Surgery",
+			"address": "Boundary Road\nHindhead\nSurrey\nGU26 6TY",
+			"post_code": "GU26 6TY",
+			"nhs_choices_user_rating": "3.5 out of 5 - 6 ratings",
+			"registered_patients": "12177.00",
+			"geoCode": {
+				"lat": 51.1103184,
+				"lng": -0.7461932
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Medina Healthcare",
+			"address": "Brannon Way\nWootton Bridge\nIsle Of Wight\nPO33 4NW",
+			"post_code": "PO33 4NW",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "8842.00",
+			"geoCode": {
+				"lat": 50.7242252,
+				"lng": -1.2308494
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "19 The Esplanade",
+			"address": "Ryde\nIsle Of Wight\nPO33 2EH",
+			"post_code": "PO33 2EH",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "9956.00",
+			"geoCode": {
+				"lat": 50.7320323,
+				"lng": -1.1586391
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Richmond Surgery",
+			"address": "Richmond Close\nFleet\nHampshire\nGU52 7US",
+			"post_code": "GU52 7US",
+			"nhs_choices_user_rating": "2.5 out of 5 - 26 ratings",
+			"registered_patients": "12422.00",
+			"geoCode": {
+				"lat": 51.2694899,
+				"lng": -0.8416751
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "18 Garfield Road",
+			"address": "Ryde\nIsle Of Wight\nRyde\nIsle of Wight\nPO33 2PT",
+			"post_code": "PO33 2PT",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "2748.00",
+			"geoCode": {
+				"lat": 50.7293809,
+				"lng": -1.1651051
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Newbury Street\nKintbury\nBerkshire\nRG17 9UX",
+			"post_code": "RG17 9UX",
+			"nhs_choices_user_rating": "1.0 out of 5 - 1 rating",
+			"registered_patients": "8135.00",
+			"geoCode": {
+				"lat": 51.39919339999999,
+				"lng": -1.4464371
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Lodge Hill Road",
+			"address": "Lower Bourne\nFarnham\nSurrey\nGU10 3RB",
+			"post_code": "GU10 3RB",
+			"nhs_choices_user_rating": "3.5 out of 5 - 8 ratings",
+			"registered_patients": "11763.00",
+			"geoCode": {
+				"lat": 51.2001244,
+				"lng": -0.7786938999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Station Road\nSway\nHampshire\nSO41 6BA",
+			"post_code": "SO41 6BA",
+			"nhs_choices_user_rating": "1.0 out of 5 - 2 ratings",
+			"registered_patients": "7541.00",
+			"geoCode": {
+				"lat": 50.7845531,
+				"lng": -1.6079606
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Fordingbridge Surgery",
+			"address": "Bartons Road\nFordingbridge\nHampshire\nHampshire\nSP6 1RS",
+			"post_code": "SP6 1RS",
+			"nhs_choices_user_rating": "4.5 out of 5 - 19 ratings",
+			"registered_patients": "12650.00",
+			"geoCode": {
+				"lat": 50.9280787,
+				"lng": -1.7936313
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Wistaria Surgery",
+			"address": "Wistaria Court\n18 Avenue Road\nLymington Hampshire\nSO41 9GJ",
+			"post_code": "SO41 9GJ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 6 ratings",
+			"registered_patients": "15052.00",
+			"geoCode": {
+				"lat": 50.760687,
+				"lng": -1.5475932
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Argyll House",
+			"address": "West Street\nRyde\nIsle Of Wight\nPO33 2QG",
+			"post_code": "PO33 2QG",
+			"nhs_choices_user_rating": "4.0 out of 5 - 9 ratings",
+			"registered_patients": "4198.00",
+			"geoCode": {
+				"lat": 50.72714939999999,
+				"lng": -1.166274
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Tower House Surgery",
+			"address": "Rink Road\nRyde\nIsle Of Wight\nPO33 1LP",
+			"post_code": "PO33 1LP",
+			"nhs_choices_user_rating": "2.5 out of 5 - 11 ratings",
+			"registered_patients": "10462.00",
+			"geoCode": {
+				"lat": 50.727066,
+				"lng": -1.151652
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "43-45 St Thomas Street",
+			"address": "Lymington\nHampshire\nSO41 9ND",
+			"post_code": "SO41 9ND",
+			"nhs_choices_user_rating": "3.0 out of 5 - 7 ratings",
+			"registered_patients": "6976.00",
+			"geoCode": {
+				"lat": 50.7574566,
+				"lng": -1.5461276
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "45 Church Lane",
+			"address": "Lymington\nHampshire\nSO41 3RA",
+			"post_code": "SO41 3RA",
+			"nhs_choices_user_rating": "4.0 out of 5 - 9 ratings",
+			"registered_patients": "10457.00",
+			"geoCode": {
+				"lat": 50.7565463,
+				"lng": -1.5433152
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Branksomewood Healthcare Ctre",
+			"address": "Branksomewood Road\nFleet\nHampshire\nGU51 4JX",
+			"post_code": "GU51 4JX",
+			"nhs_choices_user_rating": "3.0 out of 5 - 19 ratings",
+			"registered_patients": "12534.00",
+			"geoCode": {
+				"lat": 51.2822881,
+				"lng": -0.8445524
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Farnham Centre for Health",
+			"address": "Hale Road\nFarnham\nSurrey\nGU9 9QS",
+			"post_code": "GU9 9QS",
+			"nhs_choices_user_rating": "3.5 out of 5 - 6 ratings",
+			"registered_patients": "11763.00",
+			"geoCode": {
+				"lat": 51.2209375,
+				"lng": -0.7851712000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Farnham Centre For Health",
+			"address": "Hale Road\nFarnham\nSurrey\nGU9 9QS",
+			"post_code": "GU9 9QS",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "6587.00",
+			"geoCode": {
+				"lat": 51.2209375,
+				"lng": -0.7851712000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Farnham Centre For Health",
+			"address": "Hale Road\nFarnham\nSurrey\nGU9 9QS",
+			"post_code": "GU9 9QS",
+			"nhs_choices_user_rating": "3.5 out of 5 - 8 ratings",
+			"registered_patients": "10570.00",
+			"geoCode": {
+				"lat": 51.2209375,
+				"lng": -0.7851712000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Fleet Medical Centre",
+			"address": "Church Road\nFleet\nHampshire\nGU51 4PE",
+			"post_code": "GU51 4PE",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "14679.00",
+			"geoCode": {
+				"lat": 51.287933,
+				"lng": -0.8480163
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Fernhurst Surgery",
+			"address": "Crossfield\nHaslemere\nSurrey\nGU27 3JL",
+			"post_code": "GU27 3JL",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "18120.00",
+			"geoCode": {
+				"lat": 51.04841219999999,
+				"lng": -0.7242453
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "1 Esdails Lane\nRingwood Road Burley\nBurley\nBH24 4AF",
+			"post_code": "BH24 4AF",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "4117.00",
+			"geoCode": {
+				"lat": 50.8279852,
+				"lng": -1.7039488
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Beacon Health Centre",
+			"address": "St Mary's Hospital\nNewport\nIsle Of Wight\nPO30 5TG",
+			"post_code": "PO30 5TG",
+			"nhs_choices_user_rating": "5.0 out of 5 - 7 ratings",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 50.710552,
+				"lng": -1.301343
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Riverbank Medical Centre",
+			"address": "Dodsley Lane\nMidhurst\nWest Sussex\nGU29 9AW",
+			"post_code": "GU29 9AW",
+			"nhs_choices_user_rating": "3.5 out of 5 - 6 ratings",
+			"registered_patients": "12049.00",
+			"geoCode": {
+				"lat": 50.99258080000001,
+				"lng": -0.7342820999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Unit 4 Broadbridge Business Centre                    ",
+			"address": "Unit 4 Broadbridge Comm.Centre\nDelling Lane\nBosham\nPO18 8NF",
+			"post_code": "PO18 8NF",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "11171.00",
+			"geoCode": {
+				"lat": 50.83420779999999,
+				"lng": -0.8506804
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Burghfield Health Centre",
+			"address": "Reading Road\nBurghfield Common\nReading\nRG7 3YJ",
+			"post_code": "RG7 3YJ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 15 ratings",
+			"registered_patients": "6425.00",
+			"geoCode": {
+				"lat": 51.3992235,
+				"lng": -1.0560178
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Avenue",
+			"address": "Bucklebury\nReading\nBerkshire\nRG7 6NS",
+			"post_code": "RG7 6NS",
+			"nhs_choices_user_rating": "3.0 out of 5 - 5 ratings",
+			"registered_patients": "7421.00",
+			"geoCode": {
+				"lat": 51.4258767,
+				"lng": -1.1708605
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Old School House Surgery",
+			"address": "Church Street\nGreat Bedwyn Marlborough\nWiltshire\nSN8 3PF",
+			"post_code": "SN8 3PF",
+			"nhs_choices_user_rating": "5.0 out of 5 - 2 ratings",
+			"registered_patients": "3523.00",
+			"geoCode": {
+				"lat": 51.37577599999999,
+				"lng": -1.604238
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Sprays Surgery",
+			"address": "Burbage\nMarlborough\nWiltshire\nSN8 3TA",
+			"post_code": "SN8 3TA",
+			"nhs_choices_user_rating": "5.0 out of 5 - 5 ratings",
+			"registered_patients": "3341.00",
+			"geoCode": {
+				"lat": 51.3484691,
+				"lng": -1.6695448
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Cornerways Medical Centre",
+			"address": "Parkers Close Gorley Road\nPoulner Ringwood\nHampshire\nBH24 1SD",
+			"post_code": "BH24 1SD",
+			"nhs_choices_user_rating": "4.0 out of 5 - 7 ratings",
+			"registered_patients": "11709.00",
+			"geoCode": {
+				"lat": 50.8541726,
+				"lng": -1.7708861
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "24 Ashley Lane\nHordle Lymington\nHampshire\nSO41 0GA",
+			"post_code": "SO41 0GA",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "9734.00",
+			"geoCode": {
+				"lat": 50.760799,
+				"lng": -1.624242
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Street",
+			"address": "Swallowfield\nReading\nBerks\nRG7 1QY",
+			"post_code": "RG7 1QY",
+			"nhs_choices_user_rating": "5.0 out of 5 - 10 ratings",
+			"registered_patients": "11407.00",
+			"geoCode": {
+				"lat": 51.379406,
+				"lng": -0.9606499999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Southlea Surgery",
+			"address": "276 Lower Farnham Road\nAldershot\nHampshire\nGU11 3RB",
+			"post_code": "GU11 3RB",
+			"nhs_choices_user_rating": "2.5 out of 5 - 23 ratings",
+			"registered_patients": "14036.00",
+			"geoCode": {
+				"lat": 51.23548719999999,
+				"lng": -0.7563434
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Princes Gardens Surgery",
+			"address": "2a High Street\nAldershot\nHampshire\nGU11 1BJ",
+			"post_code": "GU11 1BJ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 11 ratings",
+			"registered_patients": "8302.00",
+			"geoCode": {
+				"lat": 51.2503705,
+				"lng": -0.7664019999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Alderholt Branch Surgery",
+			"address": "12 Park Lane\nAlderholt\nDorset\nSP6 3AJ",
+			"post_code": "SP6 3AJ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "12650.00",
+			"geoCode": {
+				"lat": 50.9120215,
+				"lng": -1.8309514
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Village Hall",
+			"address": "Alderholt\nFordingbridge\nHampshire\nSP6 3EP",
+			"post_code": "SP6 3EP",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "9586.00",
+			"geoCode": {
+				"lat": 50.912467,
+				"lng": -1.827931
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Hungerford Surgery",
+			"address": "The Croft\nHungerford\nBerkshire\nRG17 0HY",
+			"post_code": "RG17 0HY",
+			"nhs_choices_user_rating": "2.0 out of 5 - 4 ratings",
+			"registered_patients": "7499.00",
+			"geoCode": {
+				"lat": 51.40016139999999,
+				"lng": -1.4519317
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Aldershot Centre For Health",
+			"address": "Hospital Hill\nAldershot\nHampshire\nGU11 1AY",
+			"post_code": "GU11 1AY",
+			"nhs_choices_user_rating": "4.0 out of 5 - 11 ratings",
+			"registered_patients": "14036.00",
+			"geoCode": {
+				"lat": 51.2543462,
+				"lng": -0.7656508
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Aldershot Centre for Health",
+			"address": "Hospital Hill\nAldershot\nHampshire\nGU11 1AY",
+			"post_code": "GU11 1AY",
+			"nhs_choices_user_rating": "3.5 out of 5 - 9 ratings",
+			"registered_patients": "8069.00",
+			"geoCode": {
+				"lat": 51.2543462,
+				"lng": -0.7656508
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Aldershot Centre For Health",
+			"address": "Hospital Hill\nAldershot\nHampshire\nGU11 1AY",
+			"post_code": "GU11 1AY",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "3096.00",
+			"geoCode": {
+				"lat": 51.2543462,
+				"lng": -0.7656508
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Lavant Road Surgery",
+			"address": "8 Lavant Road\nChichester\nWest Sussex\nPO19 5RH",
+			"post_code": "PO19 5RH",
+			"nhs_choices_user_rating": "4.0 out of 5 - 7 ratings",
+			"registered_patients": "11926.00",
+			"geoCode": {
+				"lat": 50.8533048,
+				"lng": -0.7815631000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Blackwater Way",
+			"address": "Aldershot\nHampshire\nGU12 4DN",
+			"post_code": "GU12 4DN",
+			"nhs_choices_user_rating": "4.0 out of 5 - 18 ratings",
+			"registered_patients": "8531.00",
+			"geoCode": {
+				"lat": 51.2408282,
+				"lng": -0.7409281
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Ringwood Medical Centre",
+			"address": "The Close\nRingwood\nHampshire\nBH24 1JY",
+			"post_code": "BH24 1JY",
+			"nhs_choices_user_rating": "4.0 out of 5 - 4 ratings",
+			"registered_patients": "11168.00",
+			"geoCode": {
+				"lat": 50.84603269999999,
+				"lng": -1.7887622
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Links Way\nSouthwood Village\nFarnborough\nHampshire\nGU14 0NA",
+			"post_code": "GU14 0NA",
+			"nhs_choices_user_rating": "4.0 out of 5 - 10 ratings",
+			"registered_patients": "6335.00",
+			"geoCode": {
+				"lat": 51.2913226,
+				"lng": -0.7871902
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Monteagle Surgery",
+			"address": "Tesimond Drive \nYateley\nHampshire\nGU46 6FE",
+			"post_code": "GU46 6FE",
+			"nhs_choices_user_rating": "1.0 out of 5 - 2 ratings",
+			"registered_patients": "5900.00",
+			"geoCode": {
+				"lat": 51.3382916,
+				"lng": -0.8481097
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Milton Medical Centre",
+			"address": "Avenue Road\nNew Milton\nHampshire\nBH25 5JP",
+			"post_code": "BH25 5JP",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "13254.00",
+			"geoCode": {
+				"lat": 50.7566262,
+				"lng": -1.6580542
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "New Milton Health Centre",
+			"address": "Spencer Road\nNew Milton\nHampshire\nBH25 6EN",
+			"post_code": "BH25 6EN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "9734.00",
+			"geoCode": {
+				"lat": 50.7548165,
+				"lng": -1.6545133
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Parklands Surgery",
+			"address": "4 Parklands Road\nChichester\nWest Sussex\nWest Sussex\nPO19 3DT",
+			"post_code": "PO19 3DT",
+			"nhs_choices_user_rating": "4.0 out of 5 - 14 ratings",
+			"registered_patients": "9816.00",
+			"geoCode": {
+				"lat": 50.8375353,
+				"lng": -0.7885616
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Langley House",
+			"address": "27 West Street\nCHICHESTER\nWest Sussex\nPO19 1RW",
+			"post_code": "PO19 1RW",
+			"nhs_choices_user_rating": "3.5 out of 5 - 6 ratings",
+			"registered_patients": "11171.00",
+			"geoCode": {
+				"lat": 50.83694879999999,
+				"lng": -0.7831652
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Milford Medical Centre",
+			"address": "Sea Road\nMilford-on-Sea\nLymington Hampshire\nSO41 0PG",
+			"post_code": "SO41 0PG",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "15052.00",
+			"geoCode": {
+				"lat": 50.7223265,
+				"lng": -1.5890698
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Dr Rama & Partners",
+			"address": "159 Cove Road\nFarnborough\nHampshire\nGU14 0HQ",
+			"post_code": "GU14 0HQ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 9 ratings",
+			"registered_patients": "10128.00",
+			"geoCode": {
+				"lat": 51.2944538,
+				"lng": -0.7751952
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Witterings Medical Centre",
+			"address": "Cakeham Road\nEast Wittering\nWest Sussex\nPO20 8BH",
+			"post_code": "PO20 8BH",
+			"nhs_choices_user_rating": "2.5 out of 5 - 10 ratings",
+			"registered_patients": "9936.00",
+			"geoCode": {
+				"lat": 50.7698486,
+				"lng": -0.8749659999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Oaklands Practice",
+			"address": "Yateley Medical Centre\nOaklands\nYateley Hampshire\nGU46 7LS",
+			"post_code": "GU46 7LS",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "10673.00",
+			"geoCode": {
+				"lat": 51.34087,
+				"lng": -0.8278862
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Edmunds Close",
+			"address": "Barton-on-Sea\nNew Milton\nHampshire\nBH25 7EN",
+			"post_code": "BH25 7EN",
+			"nhs_choices_user_rating": "4.5 out of 5 - 9 ratings",
+			"registered_patients": "10457.00",
+			"geoCode": {
+				"lat": 50.7458608,
+				"lng": -1.6614139
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Millworth Lane",
+			"address": "Shinfield\nReading\nBerks\nRG2 9EN",
+			"post_code": "RG2 9EN",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "11407.00",
+			"geoCode": {
+				"lat": 51.4028692,
+				"lng": -0.9461332
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "North Camp Surgery",
+			"address": "2 Queens Road\nFarnborough\nHampshire\nGU14 6DH",
+			"post_code": "GU14 6DH",
+			"nhs_choices_user_rating": "3.5 out of 5 - 20 ratings",
+			"registered_patients": "4604.00",
+			"geoCode": {
+				"lat": 51.2770563,
+				"lng": -0.7491426
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "School Green",
+			"address": "Shinfield\nReading\nEngland - Uk\nRG2 9EH",
+			"post_code": "RG2 9EH",
+			"nhs_choices_user_rating": "2.0 out of 5 - 13 ratings",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 51.4043595,
+				"lng": -0.9478673
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Cathedral Medical Group",
+			"address": "Cawley Road\nChichester\nWest Sussex\nPO19 1XT",
+			"post_code": "PO19 1XT",
+			"nhs_choices_user_rating": "3.0 out of 5 - 30 ratings",
+			"registered_patients": "12648.00",
+			"geoCode": {
+				"lat": 50.8327509,
+				"lng": -0.7773013
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Avon Valley Practice",
+			"address": "Fairfield\nUpavon\nPewsey Wiltshire\nSN9 6DZ",
+			"post_code": "SN9 6DZ",
+			"nhs_choices_user_rating": "1.5 out of 5 - 3 ratings",
+			"registered_patients": "6185.00",
+			"geoCode": {
+				"lat": 51.2942364,
+				"lng": -1.8124074
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Giffard Drive Surgery",
+			"address": "68 Giffard Drive\nCove Farnborough\nHampshire\nGU14 8QB",
+			"post_code": "GU14 8QB",
+			"nhs_choices_user_rating": "3.5 out of 5 - 12 ratings",
+			"registered_patients": "8359.00",
+			"geoCode": {
+				"lat": 51.3005927,
+				"lng": -0.7707223999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Ringwood Road",
+			"address": "Bransgore\nNr. Christchurch\nDorset\nEngland - Uk\nBH23 8AD",
+			"post_code": "BH23 8AD",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "8969.00",
+			"geoCode": {
+				"lat": 50.7813262,
+				"lng": -1.7377246
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "Ringwood Road\nBransgore Christchurch\nBransgore\nBH23 8AD",
+			"post_code": "BH23 8AD",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "4117.00",
+			"geoCode": {
+				"lat": 50.7815126,
+				"lng": -1.7375326
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "High Street\nPewsey\nWiltshire\nSN9 5AQ",
+			"post_code": "SN9 5AQ",
+			"nhs_choices_user_rating": "3.0 out of 5 - 9 ratings",
+			"registered_patients": "6649.00",
+			"geoCode": {
+				"lat": 51.3402229,
+				"lng": -1.7627956
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "96 Whitley Wood Lane",
+			"address": "Reading\nBerks\nRG2 8PP",
+			"post_code": "RG2 8PP",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "5137.00",
+			"geoCode": {
+				"lat": 51.4114662,
+				"lng": -0.9381453
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Milestone Surgery",
+			"address": "208 Farnborough Road\nFarnborough\nHampshire\nGU14 7JN",
+			"post_code": "GU14 7JN",
+			"nhs_choices_user_rating": "3.5 out of 5 - 21 ratings",
+			"registered_patients": "11112.00",
+			"geoCode": {
+				"lat": 51.292342,
+				"lng": -0.7531209999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Mayfield Medical Centre",
+			"address": "Croyde Close\nFarnborough\nHampshire\nGU14 8UE",
+			"post_code": "GU14 8UE",
+			"nhs_choices_user_rating": "1.5 out of 5 - 6 ratings",
+			"registered_patients": "9275.00",
+			"geoCode": {
+				"lat": 51.3057449,
+				"lng": -0.7662238
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "257 Whitley Wood Road",
+			"address": "Reading\nBerks\nRG2 8LE",
+			"post_code": "RG2 8LE",
+			"nhs_choices_user_rating": "1.5 out of 5 - 7 ratings",
+			"registered_patients": "7895.00",
+			"geoCode": {
+				"lat": 51.4114662,
+				"lng": -0.9381453
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Alexander House",
+			"address": "2 Salisbury Road\nFarnborough\nHampshire\nGU14 7AW",
+			"post_code": "GU14 7AW",
+			"nhs_choices_user_rating": "2.5 out of 5 - 5 ratings",
+			"registered_patients": "9329.00",
+			"geoCode": {
+				"lat": 51.2936914,
+				"lng": -0.7523437
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Health Centre",
+			"address": "Wharf Road\nAsh Vale\nSurrey\nGU12 5BA",
+			"post_code": "GU12 5BA",
+			"nhs_choices_user_rating": "4.0 out of 5 - 11 ratings",
+			"registered_patients": "27686.00",
+			"geoCode": {
+				"lat": 51.2594319,
+				"lng": -0.7184416
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Arborfield Village Hall",
+			"address": "Eversley Road\nArborfield Cross\nReading\nBerks\nRG2 9PQ",
+			"post_code": "RG2 9PQ",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "11407.00",
+			"geoCode": {
+				"lat": 51.3959645,
+				"lng": -0.9060159
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Hartley Corner Surgery",
+			"address": "51 Frogmore Road\nBlackwater Camberley\nSurrey\nGU17 0DD",
+			"post_code": "GU17 0DD",
+			"nhs_choices_user_rating": "4.0 out of 5 - 14 ratings",
+			"registered_patients": "11458.00",
+			"geoCode": {
+				"lat": 51.335327,
+				"lng": -0.7968438
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "474-478 Finchampstead Road",
+			"address": "Finchampstead\nWokingham\nRG40 3RG",
+			"post_code": "RG40 3RG",
+			"nhs_choices_user_rating": "4.0 out of 5 - 17 ratings",
+			"registered_patients": "15365.00",
+			"geoCode": {
+				"lat": 51.3751729,
+				"lng": -0.8577336
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "72 Yorktown Road\nSandhurst\nBerkshire\nGU47 9BT",
+			"post_code": "GU47 9BT",
+			"nhs_choices_user_rating": "2.0 out of 5 - 8 ratings",
+			"registered_patients": "19834.00",
+			"geoCode": {
+				"lat": 51.34545420000001,
+				"lng": -0.791126
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Boxgrove Village Hall & Community Centre",
+			"address": "Community Centre\nThe Street\nBoxgrove\nPO18 0EE",
+			"post_code": "PO18 0EE",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "11171.00",
+			"geoCode": {
+				"lat": 50.86065809999999,
+				"lng": -0.7130280999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Heila House",
+			"address": "248 Lymington Road\nHighcliffe\nChristchurch\nDorset\nBH23 5ET",
+			"post_code": "BH23 5ET",
+			"nhs_choices_user_rating": "2.0 out of 5 - 6 ratings",
+			"registered_patients": "10059.00",
+			"geoCode": {
+				"lat": 50.74118619999999,
+				"lng": -1.7018967
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "St. Leonards Surgery",
+			"address": "Cornerways 1 Pine Drive\nSt. Leonards\nDorset\nBH24 2LN",
+			"post_code": "BH24 2LN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 1 rating",
+			"registered_patients": "11709.00",
+			"geoCode": {
+				"lat": 50.8315269,
+				"lng": -1.8375421
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Malcolm Road",
+			"address": "Tangmere\nChichester\nWest Sussex\nPO20 2HS",
+			"post_code": "PO20 2HS",
+			"nhs_choices_user_rating": "2.0 out of 5 - 4 ratings",
+			"registered_patients": "4259.00",
+			"geoCode": {
+				"lat": 50.8510234,
+				"lng": -0.7184499999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "Station Road\nFrimley\nCamberley\nSurrey\nGU16 7HG",
+			"post_code": "GU16 7HG",
+			"nhs_choices_user_rating": "5.0 out of 5 - 6 ratings",
+			"registered_patients": "7375.00",
+			"geoCode": {
+				"lat": 51.3131071,
+				"lng": -0.7460352000000001
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Chalfont Close",
+			"address": "Earley\nReading\nBerks\nRG6 5HZ",
+			"post_code": "RG6 5HZ",
+			"nhs_choices_user_rating": "5.0 out of 5 - 3 ratings",
+			"registered_patients": "26449.00",
+			"geoCode": {
+				"lat": 51.4382199,
+				"lng": -0.9132064999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Camberley Health Centre",
+			"address": "159 Frimley Road\nCamberley\nSurrey\nGU15 2QA",
+			"post_code": "GU15 2QA",
+			"nhs_choices_user_rating": "4.5 out of 5 - 8 ratings",
+			"registered_patients": "9477.00",
+			"geoCode": {
+				"lat": 51.324435,
+				"lng": -0.7540686
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Frimley Green Medical Centre",
+			"address": "1 Beech Road\nFrimley Green\nCamberley\nSurrey\nGU16 6QQ",
+			"post_code": "GU16 6QQ",
+			"nhs_choices_user_rating": "4.5 out of 5 - 7 ratings",
+			"registered_patients": "27686.00",
+			"geoCode": {
+				"lat": 51.3025741,
+				"lng": -0.7258623
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Cambridge Road",
+			"address": "Owlsmoor\nSandhurst\nBerkshire\nGU47 0UB",
+			"post_code": "GU47 0UB",
+			"nhs_choices_user_rating": "3.5 out of 5 - 2 ratings",
+			"registered_patients": "19834.00",
+			"geoCode": {
+				"lat": 51.3525123,
+				"lng": -0.7783376999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Surgery",
+			"address": "18 New Wokingham Road\nCrowthorne\nRG45 6JL",
+			"post_code": "RG45 6JL",
+			"nhs_choices_user_rating": "4.0 out of 5 - 21 ratings",
+			"registered_patients": "6570.00",
+			"geoCode": {
+				"lat": 51.3703564,
+				"lng": -0.8028288
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Heath Hill Surgery",
+			"address": "54 Heath Hill Road South\nCrowthorne\nBerks\nRG45 7BN",
+			"post_code": "RG45 7BN",
+			"nhs_choices_user_rating": "2.5 out of 5 - 6 ratings",
+			"registered_patients": "7170.00",
+			"geoCode": {
+				"lat": 51.3681006,
+				"lng": -0.7953196
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Park Road Surgery",
+			"address": "143 Park Road\nCamberley\nSurrey\nGU15 2NN",
+			"post_code": "GU15 2NN",
+			"nhs_choices_user_rating": "5.0 out of 5 - 4 ratings",
+			"registered_patients": "11726.00",
+			"geoCode": {
+				"lat": 51.3339052,
+				"lng": -0.744228
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "123 Salisbury Road",
+			"address": "Burton\nChristchurch\nDorset\nBH23 7JN",
+			"post_code": "BH23 7JN",
+			"nhs_choices_user_rating": "4.0 out of 5 - 5 ratings",
+			"registered_patients": "8969.00",
+			"geoCode": {
+				"lat": 50.7528505,
+				"lng": -1.7648598
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "37 Upper Gordon Road\nCamberley\nSurrey\nGU15 2HJ",
+			"post_code": "GU15 2HJ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 13 ratings",
+			"registered_patients": "11882.00",
+			"geoCode": {
+				"lat": 51.3361698,
+				"lng": -0.7415782
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Woosehill Medical Centre",
+			"address": "Fernlea Drive\nWoosehill\nWokingham\nRG41 3DR",
+			"post_code": "RG41 3DR",
+			"nhs_choices_user_rating": "3.5 out of 5 - 27 ratings",
+			"registered_patients": "11670.00",
+			"geoCode": {
+				"lat": 51.41389909999999,
+				"lng": -0.8554269
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Branch Site",
+			"address": "10 Falcon Drive\nMudeford\nChristchurch\nDorset\nBH23 4BA",
+			"post_code": "BH23 4BA",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "10059.00",
+			"geoCode": {
+				"lat": 50.7288045,
+				"lng": -1.7396328
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "10 Melbourne Avenue",
+			"address": "Winnersh\nWokingham\nBerkshire\nRG41 5EL",
+			"post_code": "RG41 5EL",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "26449.00",
+			"geoCode": {
+				"lat": 51.42636110000001,
+				"lng": -0.875056
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Purewell Cross Road",
+			"address": "Christchurch\nDorset\nBH23 3AF",
+			"post_code": "BH23 3AF",
+			"nhs_choices_user_rating": "3.0 out of 5 - 4 ratings",
+			"registered_patients": "7367.00",
+			"geoCode": {
+				"lat": 50.7364369,
+				"lng": -1.7594578
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Purewell Cross Road",
+			"address": "Christchurch\nDorset\nBH23 3AF",
+			"post_code": "BH23 3AF",
+			"nhs_choices_user_rating": "3.5 out of 5 - 5 ratings",
+			"registered_patients": "6352.00",
+			"geoCode": {
+				"lat": 50.7364369,
+				"lng": -1.7594578
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Christchurch Medical Centre",
+			"address": "1 Purewell Cross Road\nChristchurch\nDorset\nBH23 3AF",
+			"post_code": "BH23 3AF",
+			"nhs_choices_user_rating": "3.5 out of 5 - 2 ratings",
+			"registered_patients": "6609.00",
+			"geoCode": {
+				"lat": 50.7364057,
+				"lng": -1.7597987
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Marlborough Surgery",
+			"address": "George Lane\nMarlborough\nWiltshire\nSN8 4BY",
+			"post_code": "SN8 4BY",
+			"nhs_choices_user_rating": "2.5 out of 5 - 3 ratings",
+			"registered_patients": "11903.00",
+			"geoCode": {
+				"lat": 51.4175609,
+				"lng": -1.7293352
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "",
+			"address": "Wokingham Medical Centre\n23 Rose Street\nWokingham\nBerkshire\nRG40 1XS",
+			"post_code": "RG40 1XS",
+			"nhs_choices_user_rating": "2.5 out of 5 - 52 ratings",
+			"registered_patients": "23156.00",
+			"geoCode": {
+				"lat": 51.4117039,
+				"lng": -0.8316159999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Old Dean Surgery",
+			"address": "Berkshire Road Clinic\nBerkshire Road\nCamberley Surrey\nGU15 4DP",
+			"post_code": "GU15 4DP",
+			"nhs_choices_user_rating": "4.0 out of 5 - 5 ratings",
+			"registered_patients": "2187.00",
+			"geoCode": {
+				"lat": 51.3501071,
+				"lng": -0.7255223
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "83 The Grove",
+			"address": "Christchurch\nDorset\nBH23 2EZ",
+			"post_code": "BH23 2EZ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 4 ratings",
+			"registered_patients": "4967.00",
+			"geoCode": {
+				"lat": 50.7496233,
+				"lng": -1.7992211
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "49 Barrack Road",
+			"address": "Christchurch\nDorset\nBH23 1PA",
+			"post_code": "BH23 1PA",
+			"nhs_choices_user_rating": "4.0 out of 5 - 12 ratings",
+			"registered_patients": "9994.00",
+			"geoCode": {
+				"lat": 50.7360499,
+				"lng": -1.7821894
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Burma Hills Surgery",
+			"address": "Ashridge Road\nWokingham\nRG40 1PH",
+			"post_code": "RG40 1PH",
+			"nhs_choices_user_rating": "3.5 out of 5 - 3 ratings",
+			"registered_patients": "1850.00",
+			"geoCode": {
+				"lat": 51.4178219,
+				"lng": -0.8246222999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Arthur Griffiths Clinic",
+			"address": "The Parade\nPagham\nWest Sussex\nPO21 4TL",
+			"post_code": "PO21 4TL",
+			"nhs_choices_user_rating": "0 out of 5 - No ratings yet",
+			"registered_patients": "11767.00",
+			"geoCode": {
+				"lat": 50.7694099,
+				"lng": -0.7386334999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Seal Medical Centre",
+			"address": "High Street\nSelsey\nWest Sussex\nPO20 0QG",
+			"post_code": "PO20 0QG",
+			"nhs_choices_user_rating": "1.0 out of 5 - 3 ratings",
+			"registered_patients": "5690.00",
+			"geoCode": {
+				"lat": 50.7329215,
+				"lng": -0.7918381
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Selsey Medical Centre",
+			"address": "High Street\nSelsey\nWest Sussex\nPO20 0QG",
+			"post_code": "PO20 0QG",
+			"nhs_choices_user_rating": "3.5 out of 5 - 4 ratings",
+			"registered_patients": "6437.00",
+			"geoCode": {
+				"lat": 50.7329215,
+				"lng": -0.7918381
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Grove House Surgery",
+			"address": "80 Pryors Lane\nPagham\nWest Sussex\nPO21 4JB",
+			"post_code": "PO21 4JB",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "11767.00",
+			"geoCode": {
+				"lat": 50.7820313,
+				"lng": -0.7186899999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Great Hollands Practice",
+			"address": "Great Hollands Square\nBracknell\nBerkshire\nRG12 8WY",
+			"post_code": "RG12 8WY",
+			"nhs_choices_user_rating": "3.5 out of 5 - 15 ratings",
+			"registered_patients": "3694.00",
+			"geoCode": {
+				"lat": 51.3989831,
+				"lng": -0.7706415999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Great Hollands Health Centre",
+			"address": "Great Hollands Square\nBracknell\nBerks\nRG12 8WY",
+			"post_code": "RG12 8WY",
+			"nhs_choices_user_rating": "4.0 out of 5 - 14 ratings",
+			"registered_patients": "15372.00",
+			"geoCode": {
+				"lat": 51.3989831,
+				"lng": -0.7706415999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Birch Hill Medical Centre",
+			"address": "Leppington\nBracknell\nBerks\nRG12 7WW",
+			"post_code": "RG12 7WW",
+			"nhs_choices_user_rating": "3.5 out of 5 - 27 ratings",
+			"registered_patients": "15372.00",
+			"geoCode": {
+				"lat": 51.390347,
+				"lng": -0.7511099999999999
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1206 Christchurch Road",
+			"address": "Boscombe East\nBournemouth\nDorset\nBH7 6DY",
+			"post_code": "BH7 6DY",
+			"nhs_choices_user_rating": "4.0 out of 5 - 5 ratings",
+			"registered_patients": "10165.00",
+			"geoCode": {
+				"lat": 50.7359534,
+				"lng": -1.8148953
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "1 Crantock Grove",
+			"address": "Bournemouth\nDorset\nBH8 0HS",
+			"post_code": "BH8 0HS",
+			"nhs_choices_user_rating": "3.5 out of 5 - 18 ratings",
+			"registered_patients": "4051.00",
+			"geoCode": {
+				"lat": 50.75052760000001,
+				"lng": -1.8371209
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Forest End Medical Centre",
+			"address": "Ringmead\nBirch Hill\nBracknell\nRG12 7PG",
+			"post_code": "RG12 7PG",
+			"nhs_choices_user_rating": "3.5 out of 5 - 39 ratings",
+			"registered_patients": "11540.00",
+			"geoCode": {
+				"lat": 51.3878413,
+				"lng": -0.7492576
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Harewood Crescent",
+			"address": "Littledown\nBournemouth\nDorset\nBH7 7BU",
+			"post_code": "BH7 7BU",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "4198.00",
+			"geoCode": {
+				"lat": 50.7431513,
+				"lng": -1.8354316
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "4 Tolpuddle Gardens",
+			"address": "Bournemouth\nDorset\nBH9 3LQ",
+			"post_code": "BH9 3LQ",
+			"nhs_choices_user_rating": "2.0 out of 5 - 11 ratings",
+			"registered_patients": "13066.00",
+			"geoCode": {
+				"lat": 50.7608373,
+				"lng": -1.861202
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "17 Beaufort Road",
+			"address": "Southbourne\nBournemouth\nDorset\nBH6 5BF",
+			"post_code": "BH6 5BF",
+			"nhs_choices_user_rating": "4.5 out of 5 - 2 ratings",
+			"registered_patients": "8679.00",
+			"geoCode": {
+				"lat": 50.7243,
+				"lng": -1.79429
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Beaufort Road Surgery",
+			"address": "21 Beaufort Road\nSouthbourne\nBournemouth\nDorset\nBH6 5AJ",
+			"post_code": "BH6 5AJ",
+			"nhs_choices_user_rating": "4.0 out of 5 - 10 ratings",
+			"registered_patients": "10893.00",
+			"geoCode": {
+				"lat": 50.72780410000001,
+				"lng": -1.8157757
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "29 Belle Vue Road",
+			"address": "Southbourne\nBournemouth\nDorset\nBH6 3DB",
+			"post_code": "BH6 3DB",
+			"nhs_choices_user_rating": "3.5 out of 5 - 9 ratings",
+			"registered_patients": "10165.00",
+			"geoCode": {
+				"lat": 50.7243,
+				"lng": -1.79429
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "23 Rectory Lane ",
+			"address": "23 Rectory Lane\nBracknell\nBerkshire\nRG12 7BB",
+			"post_code": "RG12 7BB",
+			"nhs_choices_user_rating": "1.0 out of 5 - 10 ratings",
+			"registered_patients": "5275.00",
+			"geoCode": {},
+			"geoStatus": "ZERO_RESULTS"
+		},
+		{
+			"name": "Crown Wood Medical Centre",
+			"address": "4a Crown Row\nCrownwood\nBracknell\nRG12 0TH",
+			"post_code": "RG12 0TH",
+			"nhs_choices_user_rating": "3.5 out of 5 - 11 ratings",
+			"registered_patients": "4756.00",
+			"geoCode": {
+				"lat": 51.39555439999999,
+				"lng": -0.7373181
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "East Way",
+			"address": "Bournemouth\nDorset\nBH8 9PU",
+			"post_code": "BH8 9PU",
+			"nhs_choices_user_rating": "3.0 out of 5 - 2 ratings",
+			"registered_patients": "10305.00",
+			"geoCode": {
+				"lat": 50.74782130000001,
+				"lng": -1.8581221
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": " Evergreen Practice Skimped Hill Health Centre",
+			"address": "Market Square\nBracknell\nBerkshire\nRG12 1LH",
+			"post_code": "RG12 1LH",
+			"nhs_choices_user_rating": "4.5 out of 5 - 5 ratings",
+			"registered_patients": "3809.00",
+			"geoCode": {
+				"lat": 51.50851489999999,
+				"lng": -1.5308705
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Balfron Practice",
+			"address": "Skimped Hill Health Centre\nSkimped Hill Lane\nBracknell\nRG12 1LH",
+			"post_code": "RG12 1LH",
+			"nhs_choices_user_rating": "3.5 out of 5 - 4 ratings",
+			"registered_patients": "11540.00",
+			"geoCode": {
+				"lat": 51.4175438,
+				"lng": -0.7536202
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Boundary House Surgery",
+			"address": "Mount Lane\nBracknell\nBerkshire\nRG12 9PG",
+			"post_code": "RG12 9PG",
+			"nhs_choices_user_rating": "3.0 out of 5 - 13 ratings",
+			"registered_patients": "8597.00",
+			"geoCode": {
+				"lat": 51.413792,
+				"lng": -0.7458463
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "40 Florence Road",
+			"address": "Bournemouth\nDorset\nBH5 1HQ",
+			"post_code": "BH5 1HQ",
+			"nhs_choices_user_rating": "3.5 out of 5 - 12 ratings",
+			"registered_patients": "2876.00",
+			"geoCode": {
+				"lat": 50.7252742,
+				"lng": -1.8356783
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "26-28 St. Albans Crescent",
+			"address": "Bournemouth\nDorset\nBH8 9EW",
+			"post_code": "BH8 9EW",
+			"nhs_choices_user_rating": "4.0 out of 5 - 8 ratings",
+			"registered_patients": "10305.00",
+			"geoCode": {
+				"lat": 50.74172739999999,
+				"lng": -1.8607623
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Boscombe & Springbourne Health Centre",
+			"address": "66-68 Palmerston Road\nBoscombe Bournemouth\nDorset\nBH1 4JT",
+			"post_code": "BH1 4JT",
+			"nhs_choices_user_rating": "3.5 out of 5 - 7 ratings",
+			"registered_patients": "2045.00",
+			"geoCode": {
+				"lat": 50.728874,
+				"lng": -1.8428397
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Beechwood Avenue",
+			"address": "Bournemouth\nDorset\nBH5 1LX",
+			"post_code": "BH5 1LX",
+			"nhs_choices_user_rating": "3.0 out of 5 - 14 ratings",
+			"registered_patients": "11626.00",
+			"geoCode": {
+				"lat": 50.7238337,
+				"lng": -1.8344508
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "The Waterfield Practice",
+			"address": "Ralphs Ride\nHarman's Water\nBracknell Berkshire\nRG12 9LH",
+			"post_code": "RG12 9LH",
+			"nhs_choices_user_rating": "1.0 out of 5 - 10 ratings",
+			"registered_patients": "11897.00",
+			"geoCode": {
+				"lat": 51.407879,
+				"lng": -0.733487
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "12 Walpole Road",
+			"address": "Bournemouth\nDorset\nBH1 4HA",
+			"post_code": "BH1 4HA",
+			"nhs_choices_user_rating": "2.5 out of 5 - 13 ratings",
+			"registered_patients": "9433.00",
+			"geoCode": {
+				"lat": 50.7271659,
+				"lng": -1.8446116
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Royal Berkshire Bracknell Healthspace",
+			"address": "Eastern Gate\nBrants Bridge\nBracknell\nBerkshire\nRG12 9BG",
+			"post_code": "RG12 9BG",
+			"nhs_choices_user_rating": "3.0 out of 5 - 13 ratings",
+			"registered_patients": "",
+			"geoCode": {
+				"lat": 51.41384979999999,
+				"lng": -0.7361527
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "20 St Leonards Road",
+			"address": "Bournemouth\nDorset\nBH8 8QN",
+			"post_code": "BH8 8QN",
+			"nhs_choices_user_rating": "2.5 out of 5 - 12 ratings",
+			"registered_patients": "11958.00",
+			"geoCode": {
+				"lat": 50.7350918,
+				"lng": -1.861533
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "199 Holdenhurst Road",
+			"address": "Bournemouth\nDorset\nBH8 8DE",
+			"post_code": "BH8 8DE",
+			"nhs_choices_user_rating": "2.0 out of 5 - 11 ratings",
+			"registered_patients": "9953.00",
+			"geoCode": {
+				"lat": 50.72928779999999,
+				"lng": -1.858433
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Warfield Green Medical Centre",
+			"address": "1 County Lane\nWarfield\nBracknell\nRG42 3JP",
+			"post_code": "RG42 3JP",
+			"nhs_choices_user_rating": "1.0 out of 5 - 1 rating",
+			"registered_patients": "11897.00",
+			"geoCode": {
+				"lat": 51.4276867,
+				"lng": -0.7320346
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "Warfield Green Medical Centre",
+			"address": "1 County Lane\nWarfield\nBracknell\nRG42 3JP",
+			"post_code": "RG42 3JP",
+			"nhs_choices_user_rating": "2.5 out of 5 - 16 ratings",
+			"registered_patients": "10006.00",
+			"geoCode": {
+				"lat": 51.4276867,
+				"lng": -0.7320346
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"name": "14 Gervis Road",
+			"address": "Bournemouth\nDorset\nBournemouth\nBH1 3EG",
+			"post_code": "BH1 3EG",
+			"nhs_choices_user_rating": "3.0 out of 5 - 16 ratings",
+			"registered_patients": "11958.00",
+			"geoCode": {
+				"lat": 50.7209386,
+				"lng": -1.8625946
+			},
+			"geoStatus": "OK"
+		},
+		{
+			"address": "undefined\nundefined\nundefined\nundefined\nundefined",
+			"geoCode": {},
+			"geoStatus": "ZERO_RESULTS"
+		}
+	]
+}

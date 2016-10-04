@@ -1,0 +1,3 @@
+LSOA_2011_BGC_EW_Area_simplify.json: -q 1e4 -s 1e-8
+County_UA_2015_BGC_EW_Area_simplify.json: -q 1e4 -s 1e-8
+LAD_2015_BGC_GB_Area_simplify: -q 1e4 -s 1e-8
